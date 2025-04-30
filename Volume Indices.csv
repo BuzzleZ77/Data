@@ -1,0 +1,841 @@
+Statistic Label,Date,Year,MonthName,VALUE,Missing
+Trade Price Index for Imports,2015-01-01,2015,January,100.5,False
+Trade Price Index for Imports,2015-02-01,2015,February,97.8,False
+Trade Price Index for Imports,2015-03-01,2015,March,101.4,False
+Trade Price Index for Imports,2015-04-01,2015,April,105.4,False
+Trade Price Index for Imports,2015-05-01,2015,May,106.8,False
+Trade Price Index for Imports,2015-06-01,2015,June,98.5,False
+Trade Price Index for Imports,2015-07-01,2015,July,102.7,False
+Trade Price Index for Imports,2015-08-01,2015,August,104.8,False
+Trade Price Index for Imports,2015-09-01,2015,September,98.7,False
+Trade Price Index for Imports,2015-10-01,2015,October,94.8,False
+Trade Price Index for Imports,2015-11-01,2015,November,96.6,False
+Trade Price Index for Imports,2015-12-01,2015,December,94.9,False
+Trade Price Index for Imports,2016-01-01,2016,January,87.0,False
+Trade Price Index for Imports,2016-02-01,2016,February,91.6,False
+Trade Price Index for Imports,2016-03-01,2016,March,89.7,False
+Trade Price Index for Imports,2016-04-01,2016,April,93.4,False
+Trade Price Index for Imports,2016-05-01,2016,May,94.2,False
+Trade Price Index for Imports,2016-06-01,2016,June,96.7,False
+Trade Price Index for Imports,2016-07-01,2016,July,96.2,False
+Trade Price Index for Imports,2016-08-01,2016,August,93.1,False
+Trade Price Index for Imports,2016-09-01,2016,September,93.4,False
+Trade Price Index for Imports,2016-10-01,2016,October,95.9,False
+Trade Price Index for Imports,2016-11-01,2016,November,94.4,False
+Trade Price Index for Imports,2016-12-01,2016,December,93.7,False
+Trade Price Index for Imports,2017-01-01,2017,January,98.9,False
+Trade Price Index for Imports,2017-02-01,2017,February,98.3,False
+Trade Price Index for Imports,2017-03-01,2017,March,98.1,False
+Trade Price Index for Imports,2017-04-01,2017,April,98.0,False
+Trade Price Index for Imports,2017-05-01,2017,May,94.7,False
+Trade Price Index for Imports,2017-06-01,2017,June,94.0,False
+Trade Price Index for Imports,2017-07-01,2017,July,95.1,False
+Trade Price Index for Imports,2017-08-01,2017,August,93.6,False
+Trade Price Index for Imports,2017-09-01,2017,September,96.1,False
+Trade Price Index for Imports,2017-10-01,2017,October,92.5,False
+Trade Price Index for Imports,2017-11-01,2017,November,96.0,False
+Trade Price Index for Imports,2017-12-01,2017,December,97.7,False
+Trade Price Index for Imports,2018-01-01,2018,January,95.4,False
+Trade Price Index for Imports,2018-02-01,2018,February,96.7,False
+Trade Price Index for Imports,2018-03-01,2018,March,95.5,False
+Trade Price Index for Imports,2018-04-01,2018,April,101.1,False
+Trade Price Index for Imports,2018-05-01,2018,May,93.7,False
+Trade Price Index for Imports,2018-06-01,2018,June,98.1,False
+Trade Price Index for Imports,2018-07-01,2018,July,105.8,False
+Trade Price Index for Imports,2018-08-01,2018,August,100.9,False
+Trade Price Index for Imports,2018-09-01,2018,September,105.2,False
+Trade Price Index for Imports,2018-10-01,2018,October,100.8,False
+Trade Price Index for Imports,2018-11-01,2018,November,99.6,False
+Trade Price Index for Imports,2018-12-01,2018,December,100.6,False
+Trade Price Index for Imports,2019-01-01,2019,January,96.3,False
+Trade Price Index for Imports,2019-02-01,2019,February,96.6,False
+Trade Price Index for Imports,2019-03-01,2019,March,95.4,False
+Trade Price Index for Imports,2019-04-01,2019,April,94.8,False
+Trade Price Index for Imports,2019-05-01,2019,May,95.8,False
+Trade Price Index for Imports,2019-06-01,2019,June,96.6,False
+Trade Price Index for Imports,2019-07-01,2019,July,96.2,False
+Trade Price Index for Imports,2019-08-01,2019,August,96.0,False
+Trade Price Index for Imports,2019-09-01,2019,September,96.6,False
+Trade Price Index for Imports,2019-10-01,2019,October,97.0,False
+Trade Price Index for Imports,2019-11-01,2019,November,97.5,False
+Trade Price Index for Imports,2019-12-01,2019,December,96.9,False
+Trade Price Index for Imports,2020-01-01,2020,January,94.5,False
+Trade Price Index for Imports,2020-02-01,2020,February,91.1,False
+Trade Price Index for Imports,2020-03-01,2020,March,93.5,False
+Trade Price Index for Imports,2020-04-01,2020,April,93.0,False
+Trade Price Index for Imports,2020-05-01,2020,May,92.6,False
+Trade Price Index for Imports,2020-06-01,2020,June,94.8,False
+Trade Price Index for Imports,2020-07-01,2020,July,93.2,False
+Trade Price Index for Imports,2020-08-01,2020,August,89.9,False
+Trade Price Index for Imports,2020-09-01,2020,September,94.1,False
+Trade Price Index for Imports,2020-10-01,2020,October,89.2,False
+Trade Price Index for Imports,2020-11-01,2020,November,87.7,False
+Trade Price Index for Imports,2020-12-01,2020,December,87.0,False
+Trade Price Index for Imports,2021-01-01,2021,January,92.694,False
+Trade Price Index for Imports,2021-02-01,2021,February,94.303,False
+Trade Price Index for Imports,2021-03-01,2021,March,100.191,False
+Trade Price Index for Imports,2021-04-01,2021,April,98.537,False
+Trade Price Index for Imports,2021-05-01,2021,May,94.175,False
+Trade Price Index for Imports,2021-06-01,2021,June,100.133,False
+Trade Price Index for Imports,2021-07-01,2021,July,97.492,False
+Trade Price Index for Imports,2021-08-01,2021,August,98.033,False
+Trade Price Index for Imports,2021-09-01,2021,September,102.282,False
+Trade Price Index for Imports,2021-10-01,2021,October,100.478,False
+Trade Price Index for Imports,2021-11-01,2021,November,102.716,False
+Trade Price Index for Imports,2021-12-01,2021,December,101.619,False
+Trade Price Index for Imports,2022-01-01,2022,January,98.95,False
+Trade Price Index for Imports,2022-02-01,2022,February,95.531,False
+Trade Price Index for Imports,2022-03-01,2022,March,104.107,False
+Trade Price Index for Imports,2022-04-01,2022,April,104.647,False
+Trade Price Index for Imports,2022-05-01,2022,May,105.783,False
+Trade Price Index for Imports,2022-06-01,2022,June,104.441,False
+Trade Price Index for Imports,2022-07-01,2022,July,107.568,False
+Trade Price Index for Imports,2022-08-01,2022,August,109.113,False
+Trade Price Index for Imports,2022-09-01,2022,September,110.839,False
+Trade Price Index for Imports,2022-10-01,2022,October,104.971,False
+Trade Price Index for Imports,2022-11-01,2022,November,109.519,False
+Trade Price Index for Imports,2022-12-01,2022,December,108.857,False
+Trade Price Index for Imports,2023-01-01,2023,January,108.027,False
+Trade Price Index for Imports,2023-02-01,2023,February,106.963,False
+Trade Price Index for Imports,2023-03-01,2023,March,106.259,False
+Trade Price Index for Imports,2023-04-01,2023,April,105.179,False
+Trade Price Index for Imports,2023-05-01,2023,May,103.794,False
+Trade Price Index for Imports,2023-06-01,2023,June,104.994,False
+Trade Price Index for Imports,2023-07-01,2023,July,107.328,False
+Trade Price Index for Imports,2023-08-01,2023,August,103.638,False
+Trade Price Index for Imports,2023-09-01,2023,September,107.166,False
+Trade Price Index for Imports,2023-10-01,2023,October,106.083,False
+Trade Price Index for Imports,2023-11-01,2023,November,110.519,False
+Trade Price Index for Imports,2023-12-01,2023,December,105.919,False
+Trade Price Index for Imports,2024-01-01,2024,January,103.538,False
+Trade Price Index for Imports,2024-02-01,2024,February,103.835,False
+Trade Price Index for Imports,2024-03-01,2024,March,104.04,False
+Trade Price Index for Imports,2024-04-01,2024,April,104.405,False
+Trade Price Index for Imports,2024-05-01,2024,May,103.838,False
+Trade Price Index for Imports,2024-06-01,2024,June,103.32,False
+Trade Price Index for Imports,2024-07-01,2024,July,103.456,False
+Trade Price Index for Imports,2024-08-01,2024,August,104.322,False
+Trade Price Index for Imports,2024-09-01,2024,September,103.853,False
+Trade Price Index for Imports,2024-10-01,2024,October,104.605,False
+Trade Price Index for Imports,2024-11-01,2024,November,105.189,False
+Trade Price Index for Imports,2024-12-01,2024,December,106.246,False
+Trade Price Index for Exports,2015-01-01,2015,January,102.9,False
+Trade Price Index for Exports,2015-02-01,2015,February,103.0,False
+Trade Price Index for Exports,2015-03-01,2015,March,106.2,False
+Trade Price Index for Exports,2015-04-01,2015,April,110.3,False
+Trade Price Index for Exports,2015-05-01,2015,May,110.6,False
+Trade Price Index for Exports,2015-06-01,2015,June,109.4,False
+Trade Price Index for Exports,2015-07-01,2015,July,107.9,False
+Trade Price Index for Exports,2015-08-01,2015,August,101.6,False
+Trade Price Index for Exports,2015-09-01,2015,September,107.1,False
+Trade Price Index for Exports,2015-10-01,2015,October,110.9,False
+Trade Price Index for Exports,2015-11-01,2015,November,104.8,False
+Trade Price Index for Exports,2015-12-01,2015,December,106.6,False
+Trade Price Index for Exports,2016-01-01,2016,January,95.6,False
+Trade Price Index for Exports,2016-02-01,2016,February,106.0,False
+Trade Price Index for Exports,2016-03-01,2016,March,100.6,False
+Trade Price Index for Exports,2016-04-01,2016,April,104.1,False
+Trade Price Index for Exports,2016-05-01,2016,May,99.0,False
+Trade Price Index for Exports,2016-06-01,2016,June,102.8,False
+Trade Price Index for Exports,2016-07-01,2016,July,101.9,False
+Trade Price Index for Exports,2016-08-01,2016,August,103.4,False
+Trade Price Index for Exports,2016-09-01,2016,September,105.6,False
+Trade Price Index for Exports,2016-10-01,2016,October,103.1,False
+Trade Price Index for Exports,2016-11-01,2016,November,104.1,False
+Trade Price Index for Exports,2016-12-01,2016,December,106.6,False
+Trade Price Index for Exports,2017-01-01,2017,January,106.4,False
+Trade Price Index for Exports,2017-02-01,2017,February,99.6,False
+Trade Price Index for Exports,2017-03-01,2017,March,103.9,False
+Trade Price Index for Exports,2017-04-01,2017,April,106.2,False
+Trade Price Index for Exports,2017-05-01,2017,May,100.0,False
+Trade Price Index for Exports,2017-06-01,2017,June,99.6,False
+Trade Price Index for Exports,2017-07-01,2017,July,103.2,False
+Trade Price Index for Exports,2017-08-01,2017,August,98.2,False
+Trade Price Index for Exports,2017-09-01,2017,September,93.0,False
+Trade Price Index for Exports,2017-10-01,2017,October,88.3,False
+Trade Price Index for Exports,2017-11-01,2017,November,95.0,False
+Trade Price Index for Exports,2017-12-01,2017,December,98.0,False
+Trade Price Index for Exports,2018-01-01,2018,January,100.1,False
+Trade Price Index for Exports,2018-02-01,2018,February,99.4,False
+Trade Price Index for Exports,2018-03-01,2018,March,94.1,False
+Trade Price Index for Exports,2018-04-01,2018,April,93.4,False
+Trade Price Index for Exports,2018-05-01,2018,May,97.4,False
+Trade Price Index for Exports,2018-06-01,2018,June,99.7,False
+Trade Price Index for Exports,2018-07-01,2018,July,101.1,False
+Trade Price Index for Exports,2018-08-01,2018,August,99.6,False
+Trade Price Index for Exports,2018-09-01,2018,September,103.6,False
+Trade Price Index for Exports,2018-10-01,2018,October,98.6,False
+Trade Price Index for Exports,2018-11-01,2018,November,98.9,False
+Trade Price Index for Exports,2018-12-01,2018,December,103.2,False
+Trade Price Index for Exports,2019-01-01,2019,January,99.4,False
+Trade Price Index for Exports,2019-02-01,2019,February,99.3,False
+Trade Price Index for Exports,2019-03-01,2019,March,99.1,False
+Trade Price Index for Exports,2019-04-01,2019,April,99.5,False
+Trade Price Index for Exports,2019-05-01,2019,May,99.3,False
+Trade Price Index for Exports,2019-06-01,2019,June,99.3,False
+Trade Price Index for Exports,2019-07-01,2019,July,99.5,False
+Trade Price Index for Exports,2019-08-01,2019,August,99.3,False
+Trade Price Index for Exports,2019-09-01,2019,September,99.5,False
+Trade Price Index for Exports,2019-10-01,2019,October,99.5,False
+Trade Price Index for Exports,2019-11-01,2019,November,99.9,False
+Trade Price Index for Exports,2019-12-01,2019,December,100.2,False
+Trade Price Index for Exports,2020-01-01,2020,January,95.5,False
+Trade Price Index for Exports,2020-02-01,2020,February,91.7,False
+Trade Price Index for Exports,2020-03-01,2020,March,98.4,False
+Trade Price Index for Exports,2020-04-01,2020,April,93.3,False
+Trade Price Index for Exports,2020-05-01,2020,May,94.2,False
+Trade Price Index for Exports,2020-06-01,2020,June,98.7,False
+Trade Price Index for Exports,2020-07-01,2020,July,93.7,False
+Trade Price Index for Exports,2020-08-01,2020,August,93.3,False
+Trade Price Index for Exports,2020-09-01,2020,September,94.0,False
+Trade Price Index for Exports,2020-10-01,2020,October,92.9,False
+Trade Price Index for Exports,2020-11-01,2020,November,92.8,False
+Trade Price Index for Exports,2020-12-01,2020,December,94.8,False
+Trade Price Index for Exports,2021-01-01,2021,January,88.565,False
+Trade Price Index for Exports,2021-02-01,2021,February,94.781,False
+Trade Price Index for Exports,2021-03-01,2021,March,89.818,False
+Trade Price Index for Exports,2021-04-01,2021,April,91.729,False
+Trade Price Index for Exports,2021-05-01,2021,May,92.546,False
+Trade Price Index for Exports,2021-06-01,2021,June,90.678,False
+Trade Price Index for Exports,2021-07-01,2021,July,97.739,False
+Trade Price Index for Exports,2021-08-01,2021,August,97.868,False
+Trade Price Index for Exports,2021-09-01,2021,September,98.382,False
+Trade Price Index for Exports,2021-10-01,2021,October,102.948,False
+Trade Price Index for Exports,2021-11-01,2021,November,97.974,False
+Trade Price Index for Exports,2021-12-01,2021,December,97.191,False
+Trade Price Index for Exports,2022-01-01,2022,January,96.572,False
+Trade Price Index for Exports,2022-02-01,2022,February,97.623,False
+Trade Price Index for Exports,2022-03-01,2022,March,94.16,False
+Trade Price Index for Exports,2022-04-01,2022,April,96.629,False
+Trade Price Index for Exports,2022-05-01,2022,May,98.106,False
+Trade Price Index for Exports,2022-06-01,2022,June,96.976,False
+Trade Price Index for Exports,2022-07-01,2022,July,97.595,False
+Trade Price Index for Exports,2022-08-01,2022,August,100.116,False
+Trade Price Index for Exports,2022-09-01,2022,September,99.304,False
+Trade Price Index for Exports,2022-10-01,2022,October,101.85,False
+Trade Price Index for Exports,2022-11-01,2022,November,102.193,False
+Trade Price Index for Exports,2022-12-01,2022,December,102.773,False
+Trade Price Index for Exports,2023-01-01,2023,January,96.862,False
+Trade Price Index for Exports,2023-02-01,2023,February,97.584,False
+Trade Price Index for Exports,2023-03-01,2023,March,94.758,False
+Trade Price Index for Exports,2023-04-01,2023,April,96.679,False
+Trade Price Index for Exports,2023-05-01,2023,May,96.313,False
+Trade Price Index for Exports,2023-06-01,2023,June,98.329,False
+Trade Price Index for Exports,2023-07-01,2023,July,97.064,False
+Trade Price Index for Exports,2023-08-01,2023,August,97.831,False
+Trade Price Index for Exports,2023-09-01,2023,September,98.731,False
+Trade Price Index for Exports,2023-10-01,2023,October,101.681,False
+Trade Price Index for Exports,2023-11-01,2023,November,102.724,False
+Trade Price Index for Exports,2023-12-01,2023,December,101.73,False
+Trade Price Index for Exports,2024-01-01,2024,January,96.526,False
+Trade Price Index for Exports,2024-02-01,2024,February,99.4,False
+Trade Price Index for Exports,2024-03-01,2024,March,96.926,False
+Trade Price Index for Exports,2024-04-01,2024,April,98.292,False
+Trade Price Index for Exports,2024-05-01,2024,May,97.345,False
+Trade Price Index for Exports,2024-06-01,2024,June,98.436,False
+Trade Price Index for Exports,2024-07-01,2024,July,98.389,False
+Trade Price Index for Exports,2024-08-01,2024,August,96.985,False
+Trade Price Index for Exports,2024-09-01,2024,September,99.036,False
+Trade Price Index for Exports,2024-10-01,2024,October,98.637,False
+Trade Price Index for Exports,2024-11-01,2024,November,99.886,False
+Trade Price Index for Exports,2024-12-01,2024,December,100.772,False
+Terms of Trade Index,2015-01-01,2015,January,102.4,False
+Terms of Trade Index,2015-02-01,2015,February,105.4,False
+Terms of Trade Index,2015-03-01,2015,March,104.8,False
+Terms of Trade Index,2015-04-01,2015,April,104.6,False
+Terms of Trade Index,2015-05-01,2015,May,103.6,False
+Terms of Trade Index,2015-06-01,2015,June,111.0,False
+Terms of Trade Index,2015-07-01,2015,July,105.0,False
+Terms of Trade Index,2015-08-01,2015,August,97.0,False
+Terms of Trade Index,2015-09-01,2015,September,108.5,False
+Terms of Trade Index,2015-10-01,2015,October,116.9,False
+Terms of Trade Index,2015-11-01,2015,November,108.4,False
+Terms of Trade Index,2015-12-01,2015,December,112.3,False
+Terms of Trade Index,2016-01-01,2016,January,110.0,False
+Terms of Trade Index,2016-02-01,2016,February,115.8,False
+Terms of Trade Index,2016-03-01,2016,March,112.1,False
+Terms of Trade Index,2016-04-01,2016,April,111.5,False
+Terms of Trade Index,2016-05-01,2016,May,105.0,False
+Terms of Trade Index,2016-06-01,2016,June,106.4,False
+Terms of Trade Index,2016-07-01,2016,July,106.0,False
+Terms of Trade Index,2016-08-01,2016,August,111.1,False
+Terms of Trade Index,2016-09-01,2016,September,113.1,False
+Terms of Trade Index,2016-10-01,2016,October,107.5,False
+Terms of Trade Index,2016-11-01,2016,November,110.3,False
+Terms of Trade Index,2016-12-01,2016,December,113.8,False
+Terms of Trade Index,2017-01-01,2017,January,107.6,False
+Terms of Trade Index,2017-02-01,2017,February,101.3,False
+Terms of Trade Index,2017-03-01,2017,March,105.8,False
+Terms of Trade Index,2017-04-01,2017,April,108.4,False
+Terms of Trade Index,2017-05-01,2017,May,105.7,False
+Terms of Trade Index,2017-06-01,2017,June,106.0,False
+Terms of Trade Index,2017-07-01,2017,July,108.5,False
+Terms of Trade Index,2017-08-01,2017,August,104.9,False
+Terms of Trade Index,2017-09-01,2017,September,96.8,False
+Terms of Trade Index,2017-10-01,2017,October,95.5,False
+Terms of Trade Index,2017-11-01,2017,November,98.9,False
+Terms of Trade Index,2017-12-01,2017,December,100.3,False
+Terms of Trade Index,2018-01-01,2018,January,104.9,False
+Terms of Trade Index,2018-02-01,2018,February,102.8,False
+Terms of Trade Index,2018-03-01,2018,March,98.5,False
+Terms of Trade Index,2018-04-01,2018,April,92.4,False
+Terms of Trade Index,2018-05-01,2018,May,103.9,False
+Terms of Trade Index,2018-06-01,2018,June,101.7,False
+Terms of Trade Index,2018-07-01,2018,July,95.6,False
+Terms of Trade Index,2018-08-01,2018,August,98.7,False
+Terms of Trade Index,2018-09-01,2018,September,98.4,False
+Terms of Trade Index,2018-10-01,2018,October,97.8,False
+Terms of Trade Index,2018-11-01,2018,November,99.3,False
+Terms of Trade Index,2018-12-01,2018,December,102.5,False
+Terms of Trade Index,2019-01-01,2019,January,103.2,False
+Terms of Trade Index,2019-02-01,2019,February,102.8,False
+Terms of Trade Index,2019-03-01,2019,March,103.8,False
+Terms of Trade Index,2019-04-01,2019,April,104.9,False
+Terms of Trade Index,2019-05-01,2019,May,103.6,False
+Terms of Trade Index,2019-06-01,2019,June,102.8,False
+Terms of Trade Index,2019-07-01,2019,July,103.4,False
+Terms of Trade Index,2019-08-01,2019,August,103.5,False
+Terms of Trade Index,2019-09-01,2019,September,102.9,False
+Terms of Trade Index,2019-10-01,2019,October,102.6,False
+Terms of Trade Index,2019-11-01,2019,November,102.5,False
+Terms of Trade Index,2019-12-01,2019,December,103.4,False
+Terms of Trade Index,2020-01-01,2020,January,101.1,False
+Terms of Trade Index,2020-02-01,2020,February,100.7,False
+Terms of Trade Index,2020-03-01,2020,March,105.2,False
+Terms of Trade Index,2020-04-01,2020,April,100.4,False
+Terms of Trade Index,2020-05-01,2020,May,101.7,False
+Terms of Trade Index,2020-06-01,2020,June,104.1,False
+Terms of Trade Index,2020-07-01,2020,July,100.5,False
+Terms of Trade Index,2020-08-01,2020,August,103.8,False
+Terms of Trade Index,2020-09-01,2020,September,99.9,False
+Terms of Trade Index,2020-10-01,2020,October,104.1,False
+Terms of Trade Index,2020-11-01,2020,November,105.8,False
+Terms of Trade Index,2020-12-01,2020,December,108.9,False
+Terms of Trade Index,2021-01-01,2021,January,95.546,False
+Terms of Trade Index,2021-02-01,2021,February,100.508,False
+Terms of Trade Index,2021-03-01,2021,March,89.646,False
+Terms of Trade Index,2021-04-01,2021,April,93.091,False
+Terms of Trade Index,2021-05-01,2021,May,98.27,False
+Terms of Trade Index,2021-06-01,2021,June,90.558,False
+Terms of Trade Index,2021-07-01,2021,July,100.253,False
+Terms of Trade Index,2021-08-01,2021,August,99.831,False
+Terms of Trade Index,2021-09-01,2021,September,96.187,False
+Terms of Trade Index,2021-10-01,2021,October,102.459,False
+Terms of Trade Index,2021-11-01,2021,November,95.383,False
+Terms of Trade Index,2021-12-01,2021,December,95.642,False
+Terms of Trade Index,2022-01-01,2022,January,97.597,False
+Terms of Trade Index,2022-02-01,2022,February,102.19,False
+Terms of Trade Index,2022-03-01,2022,March,90.445,False
+Terms of Trade Index,2022-04-01,2022,April,92.338,False
+Terms of Trade Index,2022-05-01,2022,May,92.743,False
+Terms of Trade Index,2022-06-01,2022,June,92.852,False
+Terms of Trade Index,2022-07-01,2022,July,90.729,False
+Terms of Trade Index,2022-08-01,2022,August,91.755,False
+Terms of Trade Index,2022-09-01,2022,September,89.592,False
+Terms of Trade Index,2022-10-01,2022,October,97.027,False
+Terms of Trade Index,2022-11-01,2022,November,93.311,False
+Terms of Trade Index,2022-12-01,2022,December,94.411,False
+Terms of Trade Index,2023-01-01,2023,January,89.664,False
+Terms of Trade Index,2023-02-01,2023,February,91.232,False
+Terms of Trade Index,2023-03-01,2023,March,89.177,False
+Terms of Trade Index,2023-04-01,2023,April,91.919,False
+Terms of Trade Index,2023-05-01,2023,May,92.792,False
+Terms of Trade Index,2023-06-01,2023,June,93.652,False
+Terms of Trade Index,2023-07-01,2023,July,90.437,False
+Terms of Trade Index,2023-08-01,2023,August,94.396,False
+Terms of Trade Index,2023-09-01,2023,September,92.129,False
+Terms of Trade Index,2023-10-01,2023,October,95.85,False
+Terms of Trade Index,2023-11-01,2023,November,92.947,False
+Terms of Trade Index,2023-12-01,2023,December,96.045,False
+Terms of Trade Index,2024-01-01,2024,January,93.228,False
+Terms of Trade Index,2024-02-01,2024,February,95.729,False
+Terms of Trade Index,2024-03-01,2024,March,93.162,False
+Terms of Trade Index,2024-04-01,2024,April,94.145,False
+Terms of Trade Index,2024-05-01,2024,May,93.747,False
+Terms of Trade Index,2024-06-01,2024,June,95.273,False
+Terms of Trade Index,2024-07-01,2024,July,95.102,False
+Terms of Trade Index,2024-08-01,2024,August,92.967,False
+Terms of Trade Index,2024-09-01,2024,September,95.362,False
+Terms of Trade Index,2024-10-01,2024,October,94.295,False
+Terms of Trade Index,2024-11-01,2024,November,94.958,False
+Terms of Trade Index,2024-12-01,2024,December,94.848,False
+Trade Volume Index for Imports,2015-01-01,2015,January,131.7,False
+Trade Volume Index for Imports,2015-02-01,2015,February,129.5,False
+Trade Volume Index for Imports,2015-03-01,2015,March,154.6,False
+Trade Volume Index for Imports,2015-04-01,2015,April,131.8,False
+Trade Volume Index for Imports,2015-05-01,2015,May,127.7,False
+Trade Volume Index for Imports,2015-06-01,2015,June,145.3,False
+Trade Volume Index for Imports,2015-07-01,2015,July,138.3,False
+Trade Volume Index for Imports,2015-08-01,2015,August,122.5,False
+Trade Volume Index for Imports,2015-09-01,2015,September,143.8,False
+Trade Volume Index for Imports,2015-10-01,2015,October,164.7,False
+Trade Volume Index for Imports,2015-11-01,2015,November,158.0,False
+Trade Volume Index for Imports,2015-12-01,2015,December,181.6,False
+Trade Volume Index for Imports,2016-01-01,2016,January,142.6,False
+Trade Volume Index for Imports,2016-02-01,2016,February,144.4,False
+Trade Volume Index for Imports,2016-03-01,2016,March,187.0,False
+Trade Volume Index for Imports,2016-04-01,2016,April,144.6,False
+Trade Volume Index for Imports,2016-05-01,2016,May,164.7,False
+Trade Volume Index for Imports,2016-06-01,2016,June,169.3,False
+Trade Volume Index for Imports,2016-07-01,2016,July,144.2,False
+Trade Volume Index for Imports,2016-08-01,2016,August,146.1,False
+Trade Volume Index for Imports,2016-09-01,2016,September,167.1,False
+Trade Volume Index for Imports,2016-10-01,2016,October,142.6,False
+Trade Volume Index for Imports,2016-11-01,2016,November,183.9,False
+Trade Volume Index for Imports,2016-12-01,2016,December,162.0,False
+Trade Volume Index for Imports,2017-01-01,2017,January,144.7,False
+Trade Volume Index for Imports,2017-02-01,2017,February,158.7,False
+Trade Volume Index for Imports,2017-03-01,2017,March,177.2,False
+Trade Volume Index for Imports,2017-04-01,2017,April,167.2,False
+Trade Volume Index for Imports,2017-05-01,2017,May,193.4,False
+Trade Volume Index for Imports,2017-06-01,2017,June,185.6,False
+Trade Volume Index for Imports,2017-07-01,2017,July,140.2,False
+Trade Volume Index for Imports,2017-08-01,2017,August,153.9,False
+Trade Volume Index for Imports,2017-09-01,2017,September,161.8,False
+Trade Volume Index for Imports,2017-10-01,2017,October,180.8,False
+Trade Volume Index for Imports,2017-11-01,2017,November,187.0,False
+Trade Volume Index for Imports,2017-12-01,2017,December,162.7,False
+Trade Volume Index for Imports,2018-01-01,2018,January,168.8,False
+Trade Volume Index for Imports,2018-02-01,2018,February,163.8,False
+Trade Volume Index for Imports,2018-03-01,2018,March,183.9,False
+Trade Volume Index for Imports,2018-04-01,2018,April,160.9,False
+Trade Volume Index for Imports,2018-05-01,2018,May,182.1,False
+Trade Volume Index for Imports,2018-06-01,2018,June,209.9,False
+Trade Volume Index for Imports,2018-07-01,2018,July,179.8,False
+Trade Volume Index for Imports,2018-08-01,2018,August,176.4,False
+Trade Volume Index for Imports,2018-09-01,2018,September,189.4,False
+Trade Volume Index for Imports,2018-10-01,2018,October,216.5,False
+Trade Volume Index for Imports,2018-11-01,2018,November,219.8,False
+Trade Volume Index for Imports,2018-12-01,2018,December,219.9,False
+Trade Volume Index for Imports,2019-01-01,2019,January,196.0,False
+Trade Volume Index for Imports,2019-02-01,2019,February,165.8,False
+Trade Volume Index for Imports,2019-03-01,2019,March,198.2,False
+Trade Volume Index for Imports,2019-04-01,2019,April,190.7,False
+Trade Volume Index for Imports,2019-05-01,2019,May,189.2,False
+Trade Volume Index for Imports,2019-06-01,2019,June,190.3,False
+Trade Volume Index for Imports,2019-07-01,2019,July,203.2,False
+Trade Volume Index for Imports,2019-08-01,2019,August,172.8,False
+Trade Volume Index for Imports,2019-09-01,2019,September,187.7,False
+Trade Volume Index for Imports,2019-10-01,2019,October,218.6,False
+Trade Volume Index for Imports,2019-11-01,2019,November,194.7,False
+Trade Volume Index for Imports,2019-12-01,2019,December,212.3,False
+Trade Volume Index for Imports,2020-01-01,2020,January,185.4,False
+Trade Volume Index for Imports,2020-02-01,2020,February,215.7,False
+Trade Volume Index for Imports,2020-03-01,2020,March,175.7,False
+Trade Volume Index for Imports,2020-04-01,2020,April,147.7,False
+Trade Volume Index for Imports,2020-05-01,2020,May,163.8,False
+Trade Volume Index for Imports,2020-06-01,2020,June,175.4,False
+Trade Volume Index for Imports,2020-07-01,2020,July,221.6,False
+Trade Volume Index for Imports,2020-08-01,2020,August,164.5,False
+Trade Volume Index for Imports,2020-09-01,2020,September,166.0,False
+Trade Volume Index for Imports,2020-10-01,2020,October,210.0,False
+Trade Volume Index for Imports,2020-11-01,2020,November,261.4,False
+Trade Volume Index for Imports,2020-12-01,2020,December,252.6,False
+Trade Volume Index for Imports,2021-01-01,2021,January,171.2,False
+Trade Volume Index for Imports,2021-02-01,2021,February,173.7,False
+Trade Volume Index for Imports,2021-03-01,2021,March,226.8,False
+Trade Volume Index for Imports,2021-04-01,2021,April,206.3,False
+Trade Volume Index for Imports,2021-05-01,2021,May,229.2,False
+Trade Volume Index for Imports,2021-06-01,2021,June,243.4,False
+Trade Volume Index for Imports,2021-07-01,2021,July,197.1,False
+Trade Volume Index for Imports,2021-08-01,2021,August,196.6,False
+Trade Volume Index for Imports,2021-09-01,2021,September,204.0,False
+Trade Volume Index for Imports,2021-10-01,2021,October,220.6,False
+Trade Volume Index for Imports,2021-11-01,2021,November,241.5,False
+Trade Volume Index for Imports,2021-12-01,2021,December,261.9,False
+Trade Volume Index for Imports,2022-01-01,2022,January,233.031,False
+Trade Volume Index for Imports,2022-02-01,2022,February,233.922,False
+Trade Volume Index for Imports,2022-03-01,2022,March,284.239,False
+Trade Volume Index for Imports,2022-04-01,2022,April,265.722,False
+Trade Volume Index for Imports,2022-05-01,2022,May,309.165,False
+Trade Volume Index for Imports,2022-06-01,2022,June,302.737,False
+Trade Volume Index for Imports,2022-07-01,2022,July,245.184,False
+Trade Volume Index for Imports,2022-08-01,2022,August,281.724,False
+Trade Volume Index for Imports,2022-09-01,2022,September,290.395,False
+Trade Volume Index for Imports,2022-10-01,2022,October,293.634,False
+Trade Volume Index for Imports,2022-11-01,2022,November,270.919,False
+Trade Volume Index for Imports,2022-12-01,2022,December,284.211,False
+Trade Volume Index for Imports,2023-01-01,2023,January,262.455,False
+Trade Volume Index for Imports,2023-02-01,2023,February,257.099,False
+Trade Volume Index for Imports,2023-03-01,2023,March,275.656,False
+Trade Volume Index for Imports,2023-04-01,2023,April,253.234,False
+Trade Volume Index for Imports,2023-05-01,2023,May,297.471,False
+Trade Volume Index for Imports,2023-06-01,2023,June,297.34,False
+Trade Volume Index for Imports,2023-07-01,2023,July,248.875,False
+Trade Volume Index for Imports,2023-08-01,2023,August,246.206,False
+Trade Volume Index for Imports,2023-09-01,2023,September,259.122,False
+Trade Volume Index for Imports,2023-10-01,2023,October,253.674,False
+Trade Volume Index for Imports,2023-11-01,2023,November,317.64,False
+Trade Volume Index for Imports,2023-12-01,2023,December,278.343,False
+Trade Volume Index for Imports,2024-01-01,2024,January,230.155,False
+Trade Volume Index for Imports,2024-02-01,2024,February,243.477,False
+Trade Volume Index for Imports,2024-03-01,2024,March,279.751,False
+Trade Volume Index for Imports,2024-04-01,2024,April,254.252,False
+Trade Volume Index for Imports,2024-05-01,2024,May,281.894,False
+Trade Volume Index for Imports,2024-06-01,2024,June,276.747,False
+Trade Volume Index for Imports,2024-07-01,2024,July,288.16,False
+Trade Volume Index for Imports,2024-08-01,2024,August,260.667,False
+Trade Volume Index for Imports,2024-09-01,2024,September,254.703,False
+Trade Volume Index for Imports,2024-10-01,2024,October,265.254,False
+Trade Volume Index for Imports,2024-11-01,2024,November,278.879,False
+Trade Volume Index for Imports,2024-12-01,2024,December,274.083,False
+Trade Volume Index for Exports,2015-01-01,2015,January,106.3,False
+Trade Volume Index for Exports,2015-02-01,2015,February,106.9,False
+Trade Volume Index for Exports,2015-03-01,2015,March,116.8,False
+Trade Volume Index for Exports,2015-04-01,2015,April,115.0,False
+Trade Volume Index for Exports,2015-05-01,2015,May,109.5,False
+Trade Volume Index for Exports,2015-06-01,2015,June,119.5,False
+Trade Volume Index for Exports,2015-07-01,2015,July,115.1,False
+Trade Volume Index for Exports,2015-08-01,2015,August,112.1,False
+Trade Volume Index for Exports,2015-09-01,2015,September,116.3,False
+Trade Volume Index for Exports,2015-10-01,2015,October,128.0,False
+Trade Volume Index for Exports,2015-11-01,2015,November,128.2,False
+Trade Volume Index for Exports,2015-12-01,2015,December,114.5,False
+Trade Volume Index for Exports,2016-01-01,2016,January,120.9,False
+Trade Volume Index for Exports,2016-02-01,2016,February,105.0,False
+Trade Volume Index for Exports,2016-03-01,2016,March,132.6,False
+Trade Volume Index for Exports,2016-04-01,2016,April,125.8,False
+Trade Volume Index for Exports,2016-05-01,2016,May,123.6,False
+Trade Volume Index for Exports,2016-06-01,2016,June,137.7,False
+Trade Volume Index for Exports,2016-07-01,2016,July,120.4,False
+Trade Volume Index for Exports,2016-08-01,2016,August,130.8,False
+Trade Volume Index for Exports,2016-09-01,2016,September,128.2,False
+Trade Volume Index for Exports,2016-10-01,2016,October,129.3,False
+Trade Volume Index for Exports,2016-11-01,2016,November,140.6,False
+Trade Volume Index for Exports,2016-12-01,2016,December,113.0,False
+Trade Volume Index for Exports,2017-01-01,2017,January,122.8,False
+Trade Volume Index for Exports,2017-02-01,2017,February,135.1,False
+Trade Volume Index for Exports,2017-03-01,2017,March,153.0,False
+Trade Volume Index for Exports,2017-04-01,2017,April,122.6,False
+Trade Volume Index for Exports,2017-05-01,2017,May,139.3,False
+Trade Volume Index for Exports,2017-06-01,2017,June,140.6,False
+Trade Volume Index for Exports,2017-07-01,2017,July,117.4,False
+Trade Volume Index for Exports,2017-08-01,2017,August,126.1,False
+Trade Volume Index for Exports,2017-09-01,2017,September,143.8,False
+Trade Volume Index for Exports,2017-10-01,2017,October,143.2,False
+Trade Volume Index for Exports,2017-11-01,2017,November,151.6,False
+Trade Volume Index for Exports,2017-12-01,2017,December,128.3,False
+Trade Volume Index for Exports,2018-01-01,2018,January,159.6,False
+Trade Volume Index for Exports,2018-02-01,2018,February,138.1,False
+Trade Volume Index for Exports,2018-03-01,2018,March,159.1,False
+Trade Volume Index for Exports,2018-04-01,2018,April,155.4,False
+Trade Volume Index for Exports,2018-05-01,2018,May,160.1,False
+Trade Volume Index for Exports,2018-06-01,2018,June,168.9,False
+Trade Volume Index for Exports,2018-07-01,2018,July,144.6,False
+Trade Volume Index for Exports,2018-08-01,2018,August,152.9,False
+Trade Volume Index for Exports,2018-09-01,2018,September,147.1,False
+Trade Volume Index for Exports,2018-10-01,2018,October,164.1,False
+Trade Volume Index for Exports,2018-11-01,2018,November,173.5,False
+Trade Volume Index for Exports,2018-12-01,2018,December,152.1,False
+Trade Volume Index for Exports,2019-01-01,2019,January,179.1,False
+Trade Volume Index for Exports,2019-02-01,2019,February,164.9,False
+Trade Volume Index for Exports,2019-03-01,2019,March,155.5,False
+Trade Volume Index for Exports,2019-04-01,2019,April,169.7,False
+Trade Volume Index for Exports,2019-05-01,2019,May,182.1,False
+Trade Volume Index for Exports,2019-06-01,2019,June,160.1,False
+Trade Volume Index for Exports,2019-07-01,2019,July,177.2,False
+Trade Volume Index for Exports,2019-08-01,2019,August,156.2,False
+Trade Volume Index for Exports,2019-09-01,2019,September,166.2,False
+Trade Volume Index for Exports,2019-10-01,2019,October,189.4,False
+Trade Volume Index for Exports,2019-11-01,2019,November,169.5,False
+Trade Volume Index for Exports,2019-12-01,2019,December,153.5,False
+Trade Volume Index for Exports,2020-01-01,2020,January,207.1,False
+Trade Volume Index for Exports,2020-02-01,2020,February,166.4,False
+Trade Volume Index for Exports,2020-03-01,2020,March,236.9,False
+Trade Volume Index for Exports,2020-04-01,2020,April,160.3,False
+Trade Volume Index for Exports,2020-05-01,2020,May,180.3,False
+Trade Volume Index for Exports,2020-06-01,2020,June,182.4,False
+Trade Volume Index for Exports,2020-07-01,2020,July,191.8,False
+Trade Volume Index for Exports,2020-08-01,2020,August,182.8,False
+Trade Volume Index for Exports,2020-09-01,2020,September,196.7,False
+Trade Volume Index for Exports,2020-10-01,2020,October,173.8,False
+Trade Volume Index for Exports,2020-11-01,2020,November,211.3,False
+Trade Volume Index for Exports,2020-12-01,2020,December,170.0,False
+Trade Volume Index for Exports,2021-01-01,2021,January,198.6,False
+Trade Volume Index for Exports,2021-02-01,2021,February,171.5,False
+Trade Volume Index for Exports,2021-03-01,2021,March,216.1,False
+Trade Volume Index for Exports,2021-04-01,2021,April,176.8,False
+Trade Volume Index for Exports,2021-05-01,2021,May,193.2,False
+Trade Volume Index for Exports,2021-06-01,2021,June,214.7,False
+Trade Volume Index for Exports,2021-07-01,2021,July,178.3,False
+Trade Volume Index for Exports,2021-08-01,2021,August,177.6,False
+Trade Volume Index for Exports,2021-09-01,2021,September,198.2,False
+Trade Volume Index for Exports,2021-10-01,2021,October,191.8,False
+Trade Volume Index for Exports,2021-11-01,2021,November,208.2,False
+Trade Volume Index for Exports,2021-12-01,2021,December,175.6,False
+Trade Volume Index for Exports,2022-01-01,2022,January,219.555,False
+Trade Volume Index for Exports,2022-02-01,2022,February,214.516,False
+Trade Volume Index for Exports,2022-03-01,2022,March,284.07,False
+Trade Volume Index for Exports,2022-04-01,2022,April,235.03,False
+Trade Volume Index for Exports,2022-05-01,2022,May,240.994,False
+Trade Volume Index for Exports,2022-06-01,2022,June,241.495,False
+Trade Volume Index for Exports,2022-07-01,2022,July,201.585,False
+Trade Volume Index for Exports,2022-08-01,2022,August,255.57,False
+Trade Volume Index for Exports,2022-09-01,2022,September,257.82,False
+Trade Volume Index for Exports,2022-10-01,2022,October,227.616,False
+Trade Volume Index for Exports,2022-11-01,2022,November,218.12,False
+Trade Volume Index for Exports,2022-12-01,2022,December,195.459,False
+Trade Volume Index for Exports,2023-01-01,2023,January,211.161,False
+Trade Volume Index for Exports,2023-02-01,2023,February,226.048,False
+Trade Volume Index for Exports,2023-03-01,2023,March,260.983,False
+Trade Volume Index for Exports,2023-04-01,2023,April,207.106,False
+Trade Volume Index for Exports,2023-05-01,2023,May,227.811,False
+Trade Volume Index for Exports,2023-06-01,2023,June,247.241,False
+Trade Volume Index for Exports,2023-07-01,2023,July,212.425,False
+Trade Volume Index for Exports,2023-08-01,2023,August,215.971,False
+Trade Volume Index for Exports,2023-09-01,2023,September,211.926,False
+Trade Volume Index for Exports,2023-10-01,2023,October,227.702,False
+Trade Volume Index for Exports,2023-11-01,2023,November,214.127,False
+Trade Volume Index for Exports,2023-12-01,2023,December,178.644,False
+Trade Volume Index for Exports,2024-01-01,2024,January,259.231,False
+Trade Volume Index for Exports,2024-02-01,2024,February,211.605,False
+Trade Volume Index for Exports,2024-03-01,2024,March,261.118,False
+Trade Volume Index for Exports,2024-04-01,2024,April,260.67,False
+Trade Volume Index for Exports,2024-05-01,2024,May,244.744,False
+Trade Volume Index for Exports,2024-06-01,2024,June,224.272,False
+Trade Volume Index for Exports,2024-07-01,2024,July,243.504,False
+Trade Volume Index for Exports,2024-08-01,2024,August,236.247,False
+Trade Volume Index for Exports,2024-09-01,2024,September,299.573,False
+Trade Volume Index for Exports,2024-10-01,2024,October,284.675,False
+Trade Volume Index for Exports,2024-11-01,2024,November,278.983,False
+Trade Volume Index for Exports,2024-12-01,2024,December,211.481,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-01-01,2015,January,132.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-02-01,2015,February,137.6,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-03-01,2015,March,137.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-04-01,2015,April,134.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-05-01,2015,May,134.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-06-01,2015,June,137.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-07-01,2015,July,145.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-08-01,2015,August,142.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-09-01,2015,September,141.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-10-01,2015,October,156.1,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-11-01,2015,November,152.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2015-12-01,2015,December,169.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-01-01,2016,January,154.1,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-02-01,2016,February,149.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-03-01,2016,March,160.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-04-01,2016,April,150.6,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-05-01,2016,May,165.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-06-01,2016,June,162.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-07-01,2016,July,157.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-08-01,2016,August,158.1,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-09-01,2016,September,168.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-10-01,2016,October,141.1,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-11-01,2016,November,163.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2016-12-01,2016,December,156.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-01-01,2017,January,152.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-02-01,2017,February,167.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-03-01,2017,March,160.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-04-01,2017,April,182.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-05-01,2017,May,189.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-06-01,2017,June,175.5,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-07-01,2017,July,153.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-08-01,2017,August,164.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-09-01,2017,September,165.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-10-01,2017,October,169.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-11-01,2017,November,171.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2017-12-01,2017,December,163.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-01-01,2018,January,175.5,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-02-01,2018,February,172.1,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-03-01,2018,March,169.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-04-01,2018,April,176.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-05-01,2018,May,175.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-06-01,2018,June,201.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-07-01,2018,July,186.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-08-01,2018,August,197.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-09-01,2018,September,198.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-10-01,2018,October,196.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-11-01,2018,November,202.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2018-12-01,2018,December,219.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-01-01,2019,January,198.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-02-01,2019,February,174.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-03-01,2019,March,190.5,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-04-01,2019,April,195.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-05-01,2019,May,192.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-06-01,2019,June,189.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-07-01,2019,July,207.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-08-01,2019,August,192.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-09-01,2019,September,195.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-10-01,2019,October,195.6,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-11-01,2019,November,187.3,False
+Trade Volume Index for Imports (Seasonally Adjusted),2019-12-01,2019,December,186.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-01-01,2020,January,186.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-02-01,2020,February,211.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-03-01,2020,March,155.5,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-04-01,2020,April,153.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-05-01,2020,May,169.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-06-01,2020,June,168.9,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-07-01,2020,July,225.2,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-08-01,2020,August,197.0,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-09-01,2020,September,159.5,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-10-01,2020,October,200.8,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-11-01,2020,November,258.7,False
+Trade Volume Index for Imports (Seasonally Adjusted),2020-12-01,2020,December,213.4,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-01-01,2021,January,189.84,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-02-01,2021,February,195.151,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-03-01,2021,March,205.598,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-04-01,2021,April,210.087,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-05-01,2021,May,220.79,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-06-01,2021,June,225.794,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-07-01,2021,July,212.246,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-08-01,2021,August,211.416,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-09-01,2021,September,211.848,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-10-01,2021,October,219.874,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-11-01,2021,November,234.495,False
+Trade Volume Index for Imports (Seasonally Adjusted),2021-12-01,2021,December,243.668,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-01-01,2022,January,252.487,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-02-01,2022,February,259.192,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-03-01,2022,March,263.259,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-04-01,2022,April,278.103,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-05-01,2022,May,290.403,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-06-01,2022,June,285.681,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-07-01,2022,July,268.853,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-08-01,2022,August,293.614,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-09-01,2022,September,298.09,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-10-01,2022,October,289.966,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-11-01,2022,November,267.007,False
+Trade Volume Index for Imports (Seasonally Adjusted),2022-12-01,2022,December,268.473,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-01-01,2023,January,276.09,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-02-01,2023,February,277.783,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-03-01,2023,March,263.811,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-04-01,2023,April,264.054,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-05-01,2023,May,270.618,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-06-01,2023,June,273.289,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-07-01,2023,July,267.118,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-08-01,2023,August,255.794,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-09-01,2023,September,263.783,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-10-01,2023,October,246.351,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-11-01,2023,November,319.286,False
+Trade Volume Index for Imports (Seasonally Adjusted),2023-12-01,2023,December,263.136,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-01-01,2024,January,246.037,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-02-01,2024,February,251.672,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-03-01,2024,March,276.118,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-04-01,2024,April,256.539,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-05-01,2024,May,259.106,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-06-01,2024,June,260.352,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-07-01,2024,July,291.184,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-08-01,2024,August,273.346,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-09-01,2024,September,263.628,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-10-01,2024,October,259.708,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-11-01,2024,November,273.567,False
+Trade Volume Index for Imports (Seasonally Adjusted),2024-12-01,2024,December,260.441,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-01-01,2015,January,107.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-02-01,2015,February,113.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-03-01,2015,March,108.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-04-01,2015,April,115.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-05-01,2015,May,112.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-06-01,2015,June,109.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-07-01,2015,July,112.8,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-08-01,2015,August,124.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-09-01,2015,September,114.6,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-10-01,2015,October,126.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-11-01,2015,November,124.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2015-12-01,2015,December,124.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-01-01,2016,January,125.8,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-02-01,2016,February,105.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-03-01,2016,March,120.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-04-01,2016,April,126.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-05-01,2016,May,123.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-06-01,2016,June,129.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-07-01,2016,July,128.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-08-01,2016,August,132.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-09-01,2016,September,125.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-10-01,2016,October,133.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-11-01,2016,November,131.8,False
+Trade Volume Index for Exports (Seasonally Adjusted),2016-12-01,2016,December,124.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-01-01,2017,January,123.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-02-01,2017,February,143.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-03-01,2017,March,135.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-04-01,2017,April,131.5,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-05-01,2017,May,131.5,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-06-01,2017,June,129.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-07-01,2017,July,127.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-08-01,2017,August,131.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-09-01,2017,September,144.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-10-01,2017,October,141.6,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-11-01,2017,November,144.5,False
+Trade Volume Index for Exports (Seasonally Adjusted),2017-12-01,2017,December,145.8,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-01-01,2018,January,151.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-02-01,2018,February,146.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-03-01,2018,March,147.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-04-01,2018,April,157.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-05-01,2018,May,154.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-06-01,2018,June,161.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-07-01,2018,July,151.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-08-01,2018,August,155.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-09-01,2018,September,158.4,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-10-01,2018,October,154.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-11-01,2018,November,162.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2018-12-01,2018,December,174.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-01-01,2019,January,172.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-02-01,2019,February,175.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-03-01,2019,March,149.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-04-01,2019,April,164.6,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-05-01,2019,May,172.9,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-06-01,2019,June,163.8,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-07-01,2019,July,178.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-08-01,2019,August,165.4,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-09-01,2019,September,170.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-10-01,2019,October,181.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-11-01,2019,November,163.4,False
+Trade Volume Index for Exports (Seasonally Adjusted),2019-12-01,2019,December,168.4,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-01-01,2020,January,191.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-02-01,2020,February,174.5,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-03-01,2020,March,212.6,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-04-01,2020,April,157.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-05-01,2020,May,181.5,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-06-01,2020,June,171.1,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-07-01,2020,July,186.0,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-08-01,2020,August,198.3,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-09-01,2020,September,193.6,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-10-01,2020,October,171.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-11-01,2020,November,200.7,False
+Trade Volume Index for Exports (Seasonally Adjusted),2020-12-01,2020,December,185.2,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-01-01,2021,January,193.186,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-02-01,2021,February,178.103,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-03-01,2021,March,186.607,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-04-01,2021,April,176.443,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-05-01,2021,May,192.246,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-06-01,2021,June,211.239,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-07-01,2021,July,184.199,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-08-01,2021,August,182.308,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-09-01,2021,September,190.157,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-10-01,2021,October,195.139,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-11-01,2021,November,205.395,False
+Trade Volume Index for Exports (Seasonally Adjusted),2021-12-01,2021,December,202.462,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-01-01,2022,January,223.822,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-02-01,2022,February,225.978,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-03-01,2022,March,243.096,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-04-01,2022,April,250.459,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-05-01,2022,May,238.267,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-06-01,2022,June,226.637,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-07-01,2022,July,223.695,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-08-01,2022,August,249.493,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-09-01,2022,September,244.366,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-10-01,2022,October,233.51,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-11-01,2022,November,214.916,False
+Trade Volume Index for Exports (Seasonally Adjusted),2022-12-01,2022,December,228.878,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-01-01,2023,January,199.838,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-02-01,2023,February,231.197,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-03-01,2023,March,218.104,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-04-01,2023,April,220.215,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-05-01,2023,May,215.65,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-06-01,2023,June,229.737,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-07-01,2023,July,227.835,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-08-01,2023,August,215.392,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-09-01,2023,September,213.771,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-10-01,2023,October,226.431,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-11-01,2023,November,219.475,False
+Trade Volume Index for Exports (Seasonally Adjusted),2023-12-01,2023,December,220.18,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-01-01,2024,January,238.466,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-02-01,2024,February,229.022,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-03-01,2024,March,240.977,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-04-01,2024,April,243.779,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-05-01,2024,May,237.078,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-06-01,2024,June,230.95,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-07-01,2024,July,246.56,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-08-01,2024,August,248.48,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-09-01,2024,September,298.239,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-10-01,2024,October,268.212,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-11-01,2024,November,284.312,False
+Trade Volume Index for Exports (Seasonally Adjusted),2024-12-01,2024,December,257.161,False

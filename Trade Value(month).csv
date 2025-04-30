@@ -1,0 +1,721 @@
+Statistic Label,DateText,VALUE,Year,Month,Date,Missing
+Total Imports,2015 January,5368200,2015,January,2015-01-01,False
+Total Imports,2015 February,5135600,2015,February,2015-02-01,False
+Total Imports,2015 March,6360300,2015,March,2015-03-01,False
+Total Imports,2015 April,5637100,2015,April,2015-04-01,False
+Total Imports,2015 May,5534700,2015,May,2015-05-01,False
+Total Imports,2015 June,5811400,2015,June,2015-06-01,False
+Total Imports,2015 July,5765200,2015,July,2015-07-01,False
+Total Imports,2015 August,5209400,2015,August,2015-08-01,False
+Total Imports,2015 September,5763100,2015,September,2015-09-01,False
+Total Imports,2015 October,6335900,2015,October,2015-10-01,False
+Total Imports,2015 November,6196000,2015,November,2015-11-01,False
+Total Imports,2015 December,6994200,2015,December,2015-12-01,False
+Total Imports,2016 January,5142636,2016,January,2016-01-01,False
+Total Imports,2016 February,5479756,2016,February,2016-02-01,False
+Total Imports,2016 March,6998140,2016,March,2016-03-01,False
+Total Imports,2016 April,5592160,2016,April,2016-04-01,False
+Total Imports,2016 May,6412425,2016,May,2016-05-01,False
+Total Imports,2016 June,6937378,2016,June,2016-06-01,False
+Total Imports,2016 July,5737359,2016,July,2016-07-01,False
+Total Imports,2016 August,5722818,2016,August,2016-08-01,False
+Total Imports,2016 September,6669058,2016,September,2016-09-01,False
+Total Imports,2016 October,5709814,2016,October,2016-10-01,False
+Total Imports,2016 November,7246265,2016,November,2016-11-01,False
+Total Imports,2016 December,6648506,2016,December,2016-12-01,False
+Total Imports,2017 January,7197382,2017,January,2017-01-01,False
+Total Imports,2017 February,6533128,2017,February,2017-02-01,False
+Total Imports,2017 March,7250852,2017,March,2017-03-01,False
+Total Imports,2017 April,6850915,2017,April,2017-04-01,False
+Total Imports,2017 May,7618168,2017,May,2017-05-01,False
+Total Imports,2017 June,7272068,2017,June,2017-06-01,False
+Total Imports,2017 July,5685108,2017,July,2017-07-01,False
+Total Imports,2017 August,6327901,2017,August,2017-08-01,False
+Total Imports,2017 September,6533000,2017,September,2017-09-01,False
+Total Imports,2017 October,7035569,2017,October,2017-10-01,False
+Total Imports,2017 November,7423436,2017,November,2017-11-01,False
+Total Imports,2017 December,7215660,2017,December,2017-12-01,False
+Total Imports,2018 January,6541325,2018,January,2018-01-01,False
+Total Imports,2018 February,6426150,2018,February,2018-02-01,False
+Total Imports,2018 March,7132042,2018,March,2018-03-01,False
+Total Imports,2018 April,6605711,2018,April,2018-04-01,False
+Total Imports,2018 May,6926519,2018,May,2018-05-01,False
+Total Imports,2018 June,8355135,2018,June,2018-06-01,False
+Total Imports,2018 July,7720689,2018,July,2018-07-01,False
+Total Imports,2018 August,7248464,2018,August,2018-08-01,False
+Total Imports,2018 September,8253664,2018,September,2018-09-01,False
+Total Imports,2018 October,8993769,2018,October,2018-10-01,False
+Total Imports,2018 November,8872337,2018,November,2018-11-01,False
+Total Imports,2018 December,8915285,2018,December,2018-12-01,False
+Total Imports,2019 January,7661646,2019,January,2019-01-01,False
+Total Imports,2019 February,6526935,2019,February,2019-02-01,False
+Total Imports,2019 March,7658256,2019,March,2019-03-01,False
+Total Imports,2019 April,7340631,2019,April,2019-04-01,False
+Total Imports,2019 May,7356308,2019,May,2019-05-01,False
+Total Imports,2019 June,7461440,2019,June,2019-06-01,False
+Total Imports,2019 July,7978400,2019,July,2019-07-01,False
+Total Imports,2019 August,6735251,2019,August,2019-08-01,False
+Total Imports,2019 September,7364510,2019,September,2019-09-01,False
+Total Imports,2019 October,8613469,2019,October,2019-10-01,False
+Total Imports,2019 November,7844403,2019,November,2019-11-01,False
+Total Imports,2019 December,8477816,2019,December,2019-12-01,False
+Total Imports,2020 January,7107675,2020,January,2020-01-01,False
+Total Imports,2020 February,7970852,2020,February,2020-02-01,False
+Total Imports,2020 March,6667067,2020,March,2020-03-01,False
+Total Imports,2020 April,5570580,2020,April,2020-04-01,False
+Total Imports,2020 May,6152961,2020,May,2020-05-01,False
+Total Imports,2020 June,6749713,2020,June,2020-06-01,False
+Total Imports,2020 July,8378109,2020,July,2020-07-01,False
+Total Imports,2020 August,5998807,2020,August,2020-08-01,False
+Total Imports,2020 September,6463784,2020,September,2020-09-01,False
+Total Imports,2020 October,7659710,2020,October,2020-10-01,False
+Total Imports,2020 November,9342592,2020,November,2020-11-01,False
+Total Imports,2020 December,9003582,2020,December,2020-12-01,False
+Total Imports,2021 January,6440675,2021,January,2021-01-01,False
+Total Imports,2021 February,6646738,2021,February,2021-02-01,False
+Total Imports,2021 March,9219147,2021,March,2021-03-01,False
+Total Imports,2021 April,8248848,2021,April,2021-04-01,False
+Total Imports,2021 May,8759024,2021,May,2021-05-01,False
+Total Imports,2021 June,9889444,2021,June,2021-06-01,False
+Total Imports,2021 July,7796139,2021,July,2021-07-01,False
+Total Imports,2021 August,7803153,2021,August,2021-08-01,False
+Total Imports,2021 September,8465947,2021,September,2021-09-01,False
+Total Imports,2021 October,8993925,2021,October,2021-10-01,False
+Total Imports,2021 November,10402523,2021,November,2021-11-01,False
+Total Imports,2021 December,11122927,2021,December,2021-12-01,False
+Total Imports,2022 January,9356830,2022,January,2022-01-01,False
+Total Imports,2022 February,9068063,2022,February,2022-02-01,False
+Total Imports,2022 March,12007832,2022,March,2022-03-01,False
+Total Imports,2022 April,11283733,2022,April,2022-04-01,False
+Total Imports,2022 May,13271013,2022,May,2022-05-01,False
+Total Imports,2022 June,12830338,2022,June,2022-06-01,False
+Total Imports,2022 July,10702207,2022,July,2022-07-01,False
+Total Imports,2022 August,12473804,2022,August,2022-08-01,False
+Total Imports,2022 September,12807154,2022,September,2022-09-01,False
+Total Imports,2022 October,12507608,2022,October,2022-10-01,False
+Total Imports,2022 November,12128166,2022,November,2022-11-01,False
+Total Imports,2022 December,12600678,2022,December,2022-12-01,False
+Total Imports,2023 January,11505022,2023,January,2023-01-01,False
+Total Imports,2023 February,11159207,2023,February,2023-02-01,False
+Total Imports,2023 March,11885914,2023,March,2023-03-01,False
+Total Imports,2023 April,10808133,2023,April,2023-04-01,False
+Total Imports,2023 May,12318125,2023,May,2023-05-01,False
+Total Imports,2023 June,12460891,2023,June,2023-06-01,False
+Total Imports,2023 July,10894653,2023,July,2023-07-01,False
+Total Imports,2023 August,10306957,2023,August,2023-08-01,False
+Total Imports,2023 September,11263237,2023,September,2023-09-01,False
+Total Imports,2023 October,11532677,2023,October,2023-10-01,False
+Total Imports,2023 November,14196294,2023,November,2023-11-01,False
+Total Imports,2023 December,11963383,2023,December,2023-12-01,False
+Total Imports,2024 January,9669798,2024,January,2024-01-01,False
+Total Imports,2024 February,10258887,2024,February,2024-02-01,False
+Total Imports,2024 March,11810579,2024,March,2024-03-01,False
+Total Imports,2024 April,10771752,2024,April,2024-04-01,False
+Total Imports,2024 May,11041141,2024,May,2024-05-01,False
+Total Imports,2024 June,11602875,2024,June,2024-06-01,False
+Total Imports,2024 July,12097315,2024,July,2024-07-01,False
+Total Imports,2024 August,11034718,2024,August,2024-08-01,False
+Total Imports,2024 September,10733791,2024,September,2024-09-01,False
+Total Imports,2024 October,11259405,2024,October,2024-10-01,False
+Total Imports,2024 November,11903835,2024,November,2024-11-01,False
+Total Imports,2024 December,11816640,2024,December,2024-12-01,False
+Total Exports,2015 January,8290000,2015,January,2015-01-01,False
+Total Exports,2015 February,8347800,2015,February,2015-02-01,False
+Total Exports,2015 March,9405000,2015,March,2015-03-01,False
+Total Exports,2015 April,9613900,2015,April,2015-04-01,False
+Total Exports,2015 May,9179800,2015,May,2015-05-01,False
+Total Exports,2015 June,9910800,2015,June,2015-06-01,False
+Total Exports,2015 July,9412900,2015,July,2015-07-01,False
+Total Exports,2015 August,8625700,2015,August,2015-08-01,False
+Total Exports,2015 September,9438200,2015,September,2015-09-01,False
+Total Exports,2015 October,10754100,2015,October,2015-10-01,False
+Total Exports,2015 November,10178700,2015,November,2015-11-01,False
+Total Exports,2015 December,9250500,2015,December,2015-12-01,False
+Total Exports,2016 January,8892996,2016,January,2016-01-01,False
+Total Exports,2016 February,8566040,2016,February,2016-02-01,False
+Total Exports,2016 March,10354088,2016,March,2016-03-01,False
+Total Exports,2016 April,10053036,2016,April,2016-04-01,False
+Total Exports,2016 May,9385407,2016,May,2016-05-01,False
+Total Exports,2016 June,10868131,2016,June,2016-06-01,False
+Total Exports,2016 July,9410826,2016,July,2016-07-01,False
+Total Exports,2016 August,10464424,2016,August,2016-08-01,False
+Total Exports,2016 September,10485512,2016,September,2016-09-01,False
+Total Exports,2016 October,10198509,2016,October,2016-10-01,False
+Total Exports,2016 November,11201198,2016,November,2016-11-01,False
+Total Exports,2016 December,9411986,2016,December,2016-12-01,False
+Total Exports,2017 January,9906651,2017,January,2017-01-01,False
+Total Exports,2017 February,10235065,2017,February,2017-02-01,False
+Total Exports,2017 March,12036994,2017,March,2017-03-01,False
+Total Exports,2017 April,9862591,2017,April,2017-04-01,False
+Total Exports,2017 May,10560981,2017,May,2017-05-01,False
+Total Exports,2017 June,10652866,2017,June,2017-06-01,False
+Total Exports,2017 July,9178371,2017,July,2017-07-01,False
+Total Exports,2017 August,9616810,2017,August,2017-08-01,False
+Total Exports,2017 September,10188050,2017,September,2017-09-01,False
+Total Exports,2017 October,9644809,2017,October,2017-10-01,False
+Total Exports,2017 November,10848699,2017,November,2017-11-01,False
+Total Exports,2017 December,10052906,2017,December,2017-12-01,False
+Total Exports,2018 January,12102187,2018,January,2018-01-01,False
+Total Exports,2018 February,10400673,2018,February,2018-02-01,False
+Total Exports,2018 March,11340029,2018,March,2018-03-01,False
+Total Exports,2018 April,10980185,2018,April,2018-04-01,False
+Total Exports,2018 May,11810091,2018,May,2018-05-01,False
+Total Exports,2018 June,12765503,2018,June,2018-06-01,False
+Total Exports,2018 July,11074562,2018,July,2018-07-01,False
+Total Exports,2018 August,11538145,2018,August,2018-08-01,False
+Total Exports,2018 September,11550196,2018,September,2018-09-01,False
+Total Exports,2018 October,12255238,2018,October,2018-10-01,False
+Total Exports,2018 November,12956141,2018,November,2018-11-01,False
+Total Exports,2018 December,11872019,2018,December,2018-12-01,False
+Total Exports,2019 January,13485262,2019,January,2019-01-01,False
+Total Exports,2019 February,12413992,2019,February,2019-02-01,False
+Total Exports,2019 March,11677300,2019,March,2019-03-01,False
+Total Exports,2019 April,12791329,2019,April,2019-04-01,False
+Total Exports,2019 May,13698293,2019,May,2019-05-01,False
+Total Exports,2019 June,12050232,2019,June,2019-06-01,False
+Total Exports,2019 July,13363501,2019,July,2019-07-01,False
+Total Exports,2019 August,11758076,2019,August,2019-08-01,False
+Total Exports,2019 September,12507395,2019,September,2019-09-01,False
+Total Exports,2019 October,14288319,2019,October,2019-10-01,False
+Total Exports,2019 November,12843796,2019,November,2019-11-01,False
+Total Exports,2019 December,11656503,2019,December,2019-12-01,False
+Total Exports,2020 January,14989178,2020,January,2020-01-01,False
+Total Exports,2020 February,11569920,2020,February,2020-02-01,False
+Total Exports,2020 March,17664437,2020,March,2020-03-01,False
+Total Exports,2020 April,11342849,2020,April,2020-04-01,False
+Total Exports,2020 May,12875387,2020,May,2020-05-01,False
+Total Exports,2020 June,13647033,2020,June,2020-06-01,False
+Total Exports,2020 July,13617293,2020,July,2020-07-01,False
+Total Exports,2020 August,12935272,2020,August,2020-08-01,False
+Total Exports,2020 September,13990695,2020,September,2020-09-01,False
+Total Exports,2020 October,12230069,2020,October,2020-10-01,False
+Total Exports,2020 November,14918329,2020,November,2020-11-01,False
+Total Exports,2020 December,12350620,2020,December,2020-12-01,False
+Total Exports,2021 January,13329124,2021,January,2021-01-01,False
+Total Exports,2021 February,12315276,2021,February,2021-02-01,False
+Total Exports,2021 March,14708300,2021,March,2021-03-01,False
+Total Exports,2021 April,12289084,2021,April,2021-04-01,False
+Total Exports,2021 May,13547685,2021,May,2021-05-01,False
+Total Exports,2021 June,14749389,2021,June,2021-06-01,False
+Total Exports,2021 July,13202482,2021,July,2021-07-01,False
+Total Exports,2021 August,13166721,2021,August,2021-08-01,False
+Total Exports,2021 September,14771483,2021,September,2021-09-01,False
+Total Exports,2021 October,14958220,2021,October,2021-10-01,False
+Total Exports,2021 November,15623833,2021,November,2021-11-01,False
+Total Exports,2021 December,13053517,2021,December,2021-12-01,False
+Total Exports,2022 January,16065483,2022,January,2022-01-01,False
+Total Exports,2022 February,15867496,2022,February,2022-02-01,False
+Total Exports,2022 March,20266837,2022,March,2022-03-01,False
+Total Exports,2022 April,17207883,2022,April,2022-04-01,False
+Total Exports,2022 May,17914293,2022,May,2022-05-01,False
+Total Exports,2022 June,17712065,2022,June,2022-06-01,False
+Total Exports,2022 July,14906751,2022,July,2022-07-01,False
+Total Exports,2022 August,19386995,2022,August,2022-08-01,False
+Total Exports,2022 September,19433972,2022,September,2022-09-01,False
+Total Exports,2022 October,17565534,2022,October,2022-10-01,False
+Total Exports,2022 November,17131231,2022,November,2022-11-01,False
+Total Exports,2022 December,15304101,2022,December,2022-12-01,False
+Total Exports,2023 January,15497459,2023,January,2023-01-01,False
+Total Exports,2023 February,16713820,2023,February,2023-02-01,False
+Total Exports,2023 March,18738092,2023,March,2023-03-01,False
+Total Exports,2023 April,15171277,2023,April,2023-04-01,False
+Total Exports,2023 May,16601045,2023,May,2023-05-01,False
+Total Exports,2023 June,18372640,2023,June,2023-06-01,False
+Total Exports,2023 July,15627593,2023,July,2023-07-01,False
+Total Exports,2023 August,16106280,2023,August,2023-08-01,False
+Total Exports,2023 September,15846705,2023,September,2023-09-01,False
+Total Exports,2023 October,17512333,2023,October,2023-10-01,False
+Total Exports,2023 November,16072581,2023,November,2023-11-01,False
+Total Exports,2023 December,13769924,2023,December,2023-12-01,False
+Total Exports,2024 January,18912858,2024,January,2024-01-01,False
+Total Exports,2024 February,15937076,2024,February,2024-02-01,False
+Total Exports,2024 March,19176653,2024,March,2024-03-01,False
+Total Exports,2024 April,19413652,2024,April,2024-04-01,False
+Total Exports,2024 May,18038905,2024,May,2024-05-01,False
+Total Exports,2024 June,16727247,2024,June,2024-06-01,False
+Total Exports,2024 July,18153055,2024,July,2024-07-01,False
+Total Exports,2024 August,17360636,2024,August,2024-08-01,False
+Total Exports,2024 September,22479770,2024,September,2024-09-01,False
+Total Exports,2024 October,21275826,2024,October,2024-10-01,False
+Total Exports,2024 November,21114418,2024,November,2024-11-01,False
+Total Exports,2024 December,16147556,2024,December,2024-12-01,False
+Trade Surplus (Exports minus Imports),2015 January,2921900,2015,January,2015-01-01,False
+Trade Surplus (Exports minus Imports),2015 February,3212100,2015,February,2015-02-01,False
+Trade Surplus (Exports minus Imports),2015 March,3044700,2015,March,2015-03-01,False
+Trade Surplus (Exports minus Imports),2015 April,3976900,2015,April,2015-04-01,False
+Trade Surplus (Exports minus Imports),2015 May,3645100,2015,May,2015-05-01,False
+Trade Surplus (Exports minus Imports),2015 June,4099400,2015,June,2015-06-01,False
+Trade Surplus (Exports minus Imports),2015 July,3647700,2015,July,2015-07-01,False
+Trade Surplus (Exports minus Imports),2015 August,3416300,2015,August,2015-08-01,False
+Trade Surplus (Exports minus Imports),2015 September,3675100,2015,September,2015-09-01,False
+Trade Surplus (Exports minus Imports),2015 October,4418200,2015,October,2015-10-01,False
+Trade Surplus (Exports minus Imports),2015 November,3982700,2015,November,2015-11-01,False
+Trade Surplus (Exports minus Imports),2015 December,2256300,2015,December,2015-12-01,False
+Trade Surplus (Exports minus Imports),2016 January,3750360,2016,January,2016-01-01,False
+Trade Surplus (Exports minus Imports),2016 February,3086285,2016,February,2016-02-01,False
+Trade Surplus (Exports minus Imports),2016 March,3355948,2016,March,2016-03-01,False
+Trade Surplus (Exports minus Imports),2016 April,4460877,2016,April,2016-04-01,False
+Trade Surplus (Exports minus Imports),2016 May,2972982,2016,May,2016-05-01,False
+Trade Surplus (Exports minus Imports),2016 June,3930753,2016,June,2016-06-01,False
+Trade Surplus (Exports minus Imports),2016 July,3673467,2016,July,2016-07-01,False
+Trade Surplus (Exports minus Imports),2016 August,4741607,2016,August,2016-08-01,False
+Trade Surplus (Exports minus Imports),2016 September,3816454,2016,September,2016-09-01,False
+Trade Surplus (Exports minus Imports),2016 October,4488694,2016,October,2016-10-01,False
+Trade Surplus (Exports minus Imports),2016 November,3954933,2016,November,2016-11-01,False
+Trade Surplus (Exports minus Imports),2016 December,2763480,2016,December,2016-12-01,False
+Trade Surplus (Exports minus Imports),2017 January,2709269,2017,January,2017-01-01,False
+Trade Surplus (Exports minus Imports),2017 February,3701937,2017,February,2017-02-01,False
+Trade Surplus (Exports minus Imports),2017 March,4786142,2017,March,2017-03-01,False
+Trade Surplus (Exports minus Imports),2017 April,3011676,2017,April,2017-04-01,False
+Trade Surplus (Exports minus Imports),2017 May,2942813,2017,May,2017-05-01,False
+Trade Surplus (Exports minus Imports),2017 June,3380798,2017,June,2017-06-01,False
+Trade Surplus (Exports minus Imports),2017 July,3493263,2017,July,2017-07-01,False
+Trade Surplus (Exports minus Imports),2017 August,3288909,2017,August,2017-08-01,False
+Trade Surplus (Exports minus Imports),2017 September,3655050,2017,September,2017-09-01,False
+Trade Surplus (Exports minus Imports),2017 October,2609239,2017,October,2017-10-01,False
+Trade Surplus (Exports minus Imports),2017 November,3425263,2017,November,2017-11-01,False
+Trade Surplus (Exports minus Imports),2017 December,2837246,2017,December,2017-12-01,False
+Trade Surplus (Exports minus Imports),2018 January,5560862,2018,January,2018-01-01,False
+Trade Surplus (Exports minus Imports),2018 February,3974522,2018,February,2018-02-01,False
+Trade Surplus (Exports minus Imports),2018 March,4207986,2018,March,2018-03-01,False
+Trade Surplus (Exports minus Imports),2018 April,4374473,2018,April,2018-04-01,False
+Trade Surplus (Exports minus Imports),2018 May,4883572,2018,May,2018-05-01,False
+Trade Surplus (Exports minus Imports),2018 June,4410368,2018,June,2018-06-01,False
+Trade Surplus (Exports minus Imports),2018 July,3353873,2018,July,2018-07-01,False
+Trade Surplus (Exports minus Imports),2018 August,4289681,2018,August,2018-08-01,False
+Trade Surplus (Exports minus Imports),2018 September,3296532,2018,September,2018-09-01,False
+Trade Surplus (Exports minus Imports),2018 October,3261469,2018,October,2018-10-01,False
+Trade Surplus (Exports minus Imports),2018 November,4083804,2018,November,2018-11-01,False
+Trade Surplus (Exports minus Imports),2018 December,2956734,2018,December,2018-12-01,False
+Trade Surplus (Exports minus Imports),2019 January,5823615,2019,January,2019-01-01,False
+Trade Surplus (Exports minus Imports),2019 February,5887058,2019,February,2019-02-01,False
+Trade Surplus (Exports minus Imports),2019 March,4019044,2019,March,2019-03-01,False
+Trade Surplus (Exports minus Imports),2019 April,5450699,2019,April,2019-04-01,False
+Trade Surplus (Exports minus Imports),2019 May,6341985,2019,May,2019-05-01,False
+Trade Surplus (Exports minus Imports),2019 June,4588791,2019,June,2019-06-01,False
+Trade Surplus (Exports minus Imports),2019 July,5385101,2019,July,2019-07-01,False
+Trade Surplus (Exports minus Imports),2019 August,5022825,2019,August,2019-08-01,False
+Trade Surplus (Exports minus Imports),2019 September,5142884,2019,September,2019-09-01,False
+Trade Surplus (Exports minus Imports),2019 October,5674850,2019,October,2019-10-01,False
+Trade Surplus (Exports minus Imports),2019 November,4999393,2019,November,2019-11-01,False
+Trade Surplus (Exports minus Imports),2019 December,3178687,2019,December,2019-12-01,False
+Trade Surplus (Exports minus Imports),2020 January,7881502,2020,January,2020-01-01,False
+Trade Surplus (Exports minus Imports),2020 February,3599068,2020,February,2020-02-01,False
+Trade Surplus (Exports minus Imports),2020 March,10997370,2020,March,2020-03-01,False
+Trade Surplus (Exports minus Imports),2020 April,5772269,2020,April,2020-04-01,False
+Trade Surplus (Exports minus Imports),2020 May,6722426,2020,May,2020-05-01,False
+Trade Surplus (Exports minus Imports),2020 June,6897320,2020,June,2020-06-01,False
+Trade Surplus (Exports minus Imports),2020 July,5239184,2020,July,2020-07-01,False
+Trade Surplus (Exports minus Imports),2020 August,6936464,2020,August,2020-08-01,False
+Trade Surplus (Exports minus Imports),2020 September,7526910,2020,September,2020-09-01,False
+Trade Surplus (Exports minus Imports),2020 October,4570359,2020,October,2020-10-01,False
+Trade Surplus (Exports minus Imports),2020 November,5575737,2020,November,2020-11-01,False
+Trade Surplus (Exports minus Imports),2020 December,3347039,2020,December,2020-12-01,False
+Trade Surplus (Exports minus Imports),2021 January,6888449,2021,January,2021-01-01,False
+Trade Surplus (Exports minus Imports),2021 February,5668538,2021,February,2021-02-01,False
+Trade Surplus (Exports minus Imports),2021 March,5489153,2021,March,2021-03-01,False
+Trade Surplus (Exports minus Imports),2021 April,4040237,2021,April,2021-04-01,False
+Trade Surplus (Exports minus Imports),2021 May,4788660,2021,May,2021-05-01,False
+Trade Surplus (Exports minus Imports),2021 June,4859945,2021,June,2021-06-01,False
+Trade Surplus (Exports minus Imports),2021 July,5406344,2021,July,2021-07-01,False
+Trade Surplus (Exports minus Imports),2021 August,5363569,2021,August,2021-08-01,False
+Trade Surplus (Exports minus Imports),2021 September,6305535,2021,September,2021-09-01,False
+Trade Surplus (Exports minus Imports),2021 October,5964296,2021,October,2021-10-01,False
+Trade Surplus (Exports minus Imports),2021 November,5221310,2021,November,2021-11-01,False
+Trade Surplus (Exports minus Imports),2021 December,1930590,2021,December,2021-12-01,False
+Trade Surplus (Exports minus Imports),2022 January,6708653,2022,January,2022-01-01,False
+Trade Surplus (Exports minus Imports),2022 February,6799433,2022,February,2022-02-01,False
+Trade Surplus (Exports minus Imports),2022 March,8259005,2022,March,2022-03-01,False
+Trade Surplus (Exports minus Imports),2022 April,5924150,2022,April,2022-04-01,False
+Trade Surplus (Exports minus Imports),2022 May,4643280,2022,May,2022-05-01,False
+Trade Surplus (Exports minus Imports),2022 June,4881727,2022,June,2022-06-01,False
+Trade Surplus (Exports minus Imports),2022 July,4204544,2022,July,2022-07-01,False
+Trade Surplus (Exports minus Imports),2022 August,6913191,2022,August,2022-08-01,False
+Trade Surplus (Exports minus Imports),2022 September,6626817,2022,September,2022-09-01,False
+Trade Surplus (Exports minus Imports),2022 October,5057927,2022,October,2022-10-01,False
+Trade Surplus (Exports minus Imports),2022 November,5003065,2022,November,2022-11-01,False
+Trade Surplus (Exports minus Imports),2022 December,2703422,2022,December,2022-12-01,False
+Trade Surplus (Exports minus Imports),2023 January,3992437,2023,January,2023-01-01,False
+Trade Surplus (Exports minus Imports),2023 February,5554613,2023,February,2023-02-01,False
+Trade Surplus (Exports minus Imports),2023 March,6852178,2023,March,2023-03-01,False
+Trade Surplus (Exports minus Imports),2023 April,4363145,2023,April,2023-04-01,False
+Trade Surplus (Exports minus Imports),2023 May,4282921,2023,May,2023-05-01,False
+Trade Surplus (Exports minus Imports),2023 June,5911749,2023,June,2023-06-01,False
+Trade Surplus (Exports minus Imports),2023 July,4732939,2023,July,2023-07-01,False
+Trade Surplus (Exports minus Imports),2023 August,5799322,2023,August,2023-08-01,False
+Trade Surplus (Exports minus Imports),2023 September,4583468,2023,September,2023-09-01,False
+Trade Surplus (Exports minus Imports),2023 October,5979656,2023,October,2023-10-01,False
+Trade Surplus (Exports minus Imports),2023 November,1876287,2023,November,2023-11-01,False
+Trade Surplus (Exports minus Imports),2023 December,1806542,2023,December,2023-12-01,False
+Trade Surplus (Exports minus Imports),2024 January,9243060,2024,January,2024-01-01,False
+Trade Surplus (Exports minus Imports),2024 February,5678189,2024,February,2024-02-01,False
+Trade Surplus (Exports minus Imports),2024 March,7366074,2024,March,2024-03-01,False
+Trade Surplus (Exports minus Imports),2024 April,8641899,2024,April,2024-04-01,False
+Trade Surplus (Exports minus Imports),2024 May,6997764,2024,May,2024-05-01,False
+Trade Surplus (Exports minus Imports),2024 June,5124372,2024,June,2024-06-01,False
+Trade Surplus (Exports minus Imports),2024 July,6055741,2024,July,2024-07-01,False
+Trade Surplus (Exports minus Imports),2024 August,6325918,2024,August,2024-08-01,False
+Trade Surplus (Exports minus Imports),2024 September,11745980,2024,September,2024-09-01,False
+Trade Surplus (Exports minus Imports),2024 October,10016420,2024,October,2024-10-01,False
+Trade Surplus (Exports minus Imports),2024 November,9210583,2024,November,2024-11-01,False
+Trade Surplus (Exports minus Imports),2024 December,4330916,2024,December,2024-12-01,False
+Total Imports (Seasonally Adjusted),2015 January,5363800,2015,January,2015-01-01,False
+Total Imports (Seasonally Adjusted),2015 February,5494900,2015,February,2015-02-01,False
+Total Imports (Seasonally Adjusted),2015 March,5717200,2015,March,2015-03-01,False
+Total Imports (Seasonally Adjusted),2015 April,5678100,2015,April,2015-04-01,False
+Total Imports (Seasonally Adjusted),2015 May,5732600,2015,May,2015-05-01,False
+Total Imports (Seasonally Adjusted),2015 June,5579800,2015,June,2015-06-01,False
+Total Imports (Seasonally Adjusted),2015 July,6047300,2015,July,2015-07-01,False
+Total Imports (Seasonally Adjusted),2015 August,5943200,2015,August,2015-08-01,False
+Total Imports (Seasonally Adjusted),2015 September,5723200,2015,September,2015-09-01,False
+Total Imports (Seasonally Adjusted),2015 October,6130100,2015,October,2015-10-01,False
+Total Imports (Seasonally Adjusted),2015 November,6014200,2015,November,2015-11-01,False
+Total Imports (Seasonally Adjusted),2015 December,6343900,2015,December,2015-12-01,False
+Total Imports (Seasonally Adjusted),2016 January,5468759,2016,January,2016-01-01,False
+Total Imports (Seasonally Adjusted),2016 February,5731652,2016,February,2016-02-01,False
+Total Imports (Seasonally Adjusted),2016 March,6105195,2016,March,2016-03-01,False
+Total Imports (Seasonally Adjusted),2016 April,5854209,2016,April,2016-04-01,False
+Total Imports (Seasonally Adjusted),2016 May,6328278,2016,May,2016-05-01,False
+Total Imports (Seasonally Adjusted),2016 June,6700327,2016,June,2016-06-01,False
+Total Imports (Seasonally Adjusted),2016 July,6266202,2016,July,2016-07-01,False
+Total Imports (Seasonally Adjusted),2016 August,6235728,2016,August,2016-08-01,False
+Total Imports (Seasonally Adjusted),2016 September,6743355,2016,September,2016-09-01,False
+Total Imports (Seasonally Adjusted),2016 October,5682975,2016,October,2016-10-01,False
+Total Imports (Seasonally Adjusted),2016 November,6609072,2016,November,2016-11-01,False
+Total Imports (Seasonally Adjusted),2016 December,6134995,2016,December,2016-12-01,False
+Total Imports (Seasonally Adjusted),2017 January,7473049,2017,January,2017-01-01,False
+Total Imports (Seasonally Adjusted),2017 February,7025120,2017,February,2017-02-01,False
+Total Imports (Seasonally Adjusted),2017 March,6671419,2017,March,2017-03-01,False
+Total Imports (Seasonally Adjusted),2017 April,7260335,2017,April,2017-04-01,False
+Total Imports (Seasonally Adjusted),2017 May,7413848,2017,May,2017-05-01,False
+Total Imports (Seasonally Adjusted),2017 June,7041088,2017,June,2017-06-01,False
+Total Imports (Seasonally Adjusted),2017 July,6188670,2017,July,2017-07-01,False
+Total Imports (Seasonally Adjusted),2017 August,6791069,2017,August,2017-08-01,False
+Total Imports (Seasonally Adjusted),2017 September,6723113,2017,September,2017-09-01,False
+Total Imports (Seasonally Adjusted),2017 October,6676470,2017,October,2017-10-01,False
+Total Imports (Seasonally Adjusted),2017 November,6855907,2017,November,2017-11-01,False
+Total Imports (Seasonally Adjusted),2017 December,6892302,2017,December,2017-12-01,False
+Total Imports (Seasonally Adjusted),2018 January,6773525,2018,January,2018-01-01,False
+Total Imports (Seasonally Adjusted),2018 February,6876814,2018,February,2018-02-01,False
+Total Imports (Seasonally Adjusted),2018 March,6639147,2018,March,2018-03-01,False
+Total Imports (Seasonally Adjusted),2018 April,7007357,2018,April,2018-04-01,False
+Total Imports (Seasonally Adjusted),2018 May,6599259,2018,May,2018-05-01,False
+Total Imports (Seasonally Adjusted),2018 June,8292489,2018,June,2018-06-01,False
+Total Imports (Seasonally Adjusted),2018 July,8072842,2018,July,2018-07-01,False
+Total Imports (Seasonally Adjusted),2018 August,8173253,2018,August,2018-08-01,False
+Total Imports (Seasonally Adjusted),2018 September,8510108,2018,September,2018-09-01,False
+Total Imports (Seasonally Adjusted),2018 October,8343615,2018,October,2018-10-01,False
+Total Imports (Seasonally Adjusted),2018 November,8276754,2018,November,2018-11-01,False
+Total Imports (Seasonally Adjusted),2018 December,8398576,2018,December,2018-12-01,False
+Total Imports (Seasonally Adjusted),2019 January,7479040,2019,January,2019-01-01,False
+Total Imports (Seasonally Adjusted),2019 February,6952290,2019,February,2019-02-01,False
+Total Imports (Seasonally Adjusted),2019 March,7308606,2019,March,2019-03-01,False
+Total Imports (Seasonally Adjusted),2019 April,7387279,2019,April,2019-04-01,False
+Total Imports (Seasonally Adjusted),2019 May,7365966,2019,May,2019-05-01,False
+Total Imports (Seasonally Adjusted),2019 June,7377566,2019,June,2019-06-01,False
+Total Imports (Seasonally Adjusted),2019 July,8161958,2019,July,2019-07-01,False
+Total Imports (Seasonally Adjusted),2019 August,7644951,2019,August,2019-08-01,False
+Total Imports (Seasonally Adjusted),2019 September,7588318,2019,September,2019-09-01,False
+Total Imports (Seasonally Adjusted),2019 October,7830515,2019,October,2019-10-01,False
+Total Imports (Seasonally Adjusted),2019 November,7499402,2019,November,2019-11-01,False
+Total Imports (Seasonally Adjusted),2019 December,7760030,2019,December,2019-12-01,False
+Total Imports (Seasonally Adjusted),2020 January,7621149,2020,January,2020-01-01,False
+Total Imports (Seasonally Adjusted),2020 February,8206069,2020,February,2020-02-01,False
+Total Imports (Seasonally Adjusted),2020 March,6346036,2020,March,2020-03-01,False
+Total Imports (Seasonally Adjusted),2020 April,5963235,2020,April,2020-04-01,False
+Total Imports (Seasonally Adjusted),2020 May,6449411,2020,May,2020-05-01,False
+Total Imports (Seasonally Adjusted),2020 June,6364945,2020,June,2020-06-01,False
+Total Imports (Seasonally Adjusted),2020 July,8125007,2020,July,2020-07-01,False
+Total Imports (Seasonally Adjusted),2020 August,7121728,2020,August,2020-08-01,False
+Total Imports (Seasonally Adjusted),2020 September,6495583,2020,September,2020-09-01,False
+Total Imports (Seasonally Adjusted),2020 October,7256239,2020,October,2020-10-01,False
+Total Imports (Seasonally Adjusted),2020 November,8754516,2020,November,2020-11-01,False
+Total Imports (Seasonally Adjusted),2020 December,7644700,2020,December,2020-12-01,False
+Total Imports (Seasonally Adjusted),2021 January,6797700,2021,January,2021-01-01,False
+Total Imports (Seasonally Adjusted),2021 February,7182600,2021,February,2021-02-01,False
+Total Imports (Seasonally Adjusted),2021 March,8308600,2021,March,2021-03-01,False
+Total Imports (Seasonally Adjusted),2021 April,8297200,2021,April,2021-04-01,False
+Total Imports (Seasonally Adjusted),2021 May,8930600,2021,May,2021-05-01,False
+Total Imports (Seasonally Adjusted),2021 June,9273300,2021,June,2021-06-01,False
+Total Imports (Seasonally Adjusted),2021 July,8353800,2021,July,2021-07-01,False
+Total Imports (Seasonally Adjusted),2021 August,8579800,2021,August,2021-08-01,False
+Total Imports (Seasonally Adjusted),2021 September,8479100,2021,September,2021-09-01,False
+Total Imports (Seasonally Adjusted),2021 October,8958200,2021,October,2021-10-01,False
+Total Imports (Seasonally Adjusted),2021 November,9826600,2021,November,2021-11-01,False
+Total Imports (Seasonally Adjusted),2021 December,10191700,2021,December,2021-12-01,False
+Total Imports (Seasonally Adjusted),2022 January,9896900,2022,January,2022-01-01,False
+Total Imports (Seasonally Adjusted),2022 February,9819700,2022,February,2022-02-01,False
+Total Imports (Seasonally Adjusted),2022 March,10836200,2022,March,2022-03-01,False
+Total Imports (Seasonally Adjusted),2022 April,11690800,2022,April,2022-04-01,False
+Total Imports (Seasonally Adjusted),2022 May,13172000,2022,May,2022-05-01,False
+Total Imports (Seasonally Adjusted),2022 June,12087600,2022,June,2022-06-01,False
+Total Imports (Seasonally Adjusted),2022 July,11816800,2022,July,2022-07-01,False
+Total Imports (Seasonally Adjusted),2022 August,13361600,2022,August,2022-08-01,False
+Total Imports (Seasonally Adjusted),2022 September,12865900,2022,September,2022-09-01,False
+Total Imports (Seasonally Adjusted),2022 October,12453600,2022,October,2022-10-01,False
+Total Imports (Seasonally Adjusted),2022 November,11437900,2022,November,2022-11-01,False
+Total Imports (Seasonally Adjusted),2022 December,11819400,2022,December,2022-12-01,False
+Total Imports (Seasonally Adjusted),2023 January,11833000,2023,January,2023-01-01,False
+Total Imports (Seasonally Adjusted),2023 February,12061000,2023,February,2023-02-01,False
+Total Imports (Seasonally Adjusted),2023 March,10750300,2023,March,2023-03-01,False
+Total Imports (Seasonally Adjusted),2023 April,11531100,2023,April,2023-04-01,False
+Total Imports (Seasonally Adjusted),2023 May,11865000,2023,May,2023-05-01,False
+Total Imports (Seasonally Adjusted),2023 June,11689100,2023,June,2023-06-01,False
+Total Imports (Seasonally Adjusted),2023 July,11891300,2023,July,2023-07-01,False
+Total Imports (Seasonally Adjusted),2023 August,11076800,2023,August,2023-08-01,False
+Total Imports (Seasonally Adjusted),2023 September,11585200,2023,September,2023-09-01,False
+Total Imports (Seasonally Adjusted),2023 October,11175100,2023,October,2023-10-01,False
+Total Imports (Seasonally Adjusted),2023 November,13337800,2023,November,2023-11-01,False
+Total Imports (Seasonally Adjusted),2023 December,11480100,2023,December,2023-12-01,False
+Total Imports (Seasonally Adjusted),2024 January,9856000,2024,January,2024-01-01,False
+Total Imports (Seasonally Adjusted),2024 February,10631000,2024,February,2024-02-01,False
+Total Imports (Seasonally Adjusted),2024 March,11224900,2024,March,2024-03-01,False
+Total Imports (Seasonally Adjusted),2024 April,10916900,2024,April,2024-04-01,False
+Total Imports (Seasonally Adjusted),2024 May,10707500,2024,May,2024-05-01,False
+Total Imports (Seasonally Adjusted),2024 June,11424500,2024,June,2024-06-01,False
+Total Imports (Seasonally Adjusted),2024 July,12380100,2024,July,2024-07-01,False
+Total Imports (Seasonally Adjusted),2024 August,12080800,2024,August,2024-08-01,False
+Total Imports (Seasonally Adjusted),2024 September,11065500,2024,September,2024-09-01,False
+Total Imports (Seasonally Adjusted),2024 October,10689500,2024,October,2024-10-01,False
+Total Imports (Seasonally Adjusted),2024 November,11490700,2024,November,2024-11-01,False
+Total Imports (Seasonally Adjusted),2024 December,11138000,2024,December,2024-12-01,False
+Total Exports (Seasonally Adjusted),2015 January,8643000,2015,January,2015-01-01,False
+Total Exports (Seasonally Adjusted),2015 February,8826300,2015,February,2015-02-01,False
+Total Exports (Seasonally Adjusted),2015 March,8895700,2015,March,2015-03-01,False
+Total Exports (Seasonally Adjusted),2015 April,9393400,2015,April,2015-04-01,False
+Total Exports (Seasonally Adjusted),2015 May,9351600,2015,May,2015-05-01,False
+Total Exports (Seasonally Adjusted),2015 June,9214400,2015,June,2015-06-01,False
+Total Exports (Seasonally Adjusted),2015 July,9267700,2015,July,2015-07-01,False
+Total Exports (Seasonally Adjusted),2015 August,9356300,2015,August,2015-08-01,False
+Total Exports (Seasonally Adjusted),2015 September,9261500,2015,September,2015-09-01,False
+Total Exports (Seasonally Adjusted),2015 October,10787600,2015,October,2015-10-01,False
+Total Exports (Seasonally Adjusted),2015 November,9920000,2015,November,2015-11-01,False
+Total Exports (Seasonally Adjusted),2015 December,9618500,2015,December,2015-12-01,False
+Total Exports (Seasonally Adjusted),2016 January,9470191,2016,January,2016-01-01,False
+Total Exports (Seasonally Adjusted),2016 February,8545663,2016,February,2016-02-01,False
+Total Exports (Seasonally Adjusted),2016 March,9545350,2016,March,2016-03-01,False
+Total Exports (Seasonally Adjusted),2016 April,9790629,2016,April,2016-04-01,False
+Total Exports (Seasonally Adjusted),2016 May,9559204,2016,May,2016-05-01,False
+Total Exports (Seasonally Adjusted),2016 June,10128420,2016,June,2016-06-01,False
+Total Exports (Seasonally Adjusted),2016 July,10041894,2016,July,2016-07-01,False
+Total Exports (Seasonally Adjusted),2016 August,10640547,2016,August,2016-08-01,False
+Total Exports (Seasonally Adjusted),2016 September,10145009,2016,September,2016-09-01,False
+Total Exports (Seasonally Adjusted),2016 October,10806080,2016,October,2016-10-01,False
+Total Exports (Seasonally Adjusted),2016 November,10578783,2016,November,2016-11-01,False
+Total Exports (Seasonally Adjusted),2016 December,9632499,2016,December,2016-12-01,False
+Total Exports (Seasonally Adjusted),2017 January,10331209,2017,January,2017-01-01,False
+Total Exports (Seasonally Adjusted),2017 February,10686083,2017,February,2017-02-01,False
+Total Exports (Seasonally Adjusted),2017 March,10834277,2017,March,2017-03-01,False
+Total Exports (Seasonally Adjusted),2017 April,10411708,2017,April,2017-04-01,False
+Total Exports (Seasonally Adjusted),2017 May,10156603,2017,May,2017-05-01,False
+Total Exports (Seasonally Adjusted),2017 June,9797340,2017,June,2017-06-01,False
+Total Exports (Seasonally Adjusted),2017 July,9972968,2017,July,2017-07-01,False
+Total Exports (Seasonally Adjusted),2017 August,10038298,2017,August,2017-08-01,False
+Total Exports (Seasonally Adjusted),2017 September,10062164,2017,September,2017-09-01,False
+Total Exports (Seasonally Adjusted),2017 October,9970105,2017,October,2017-10-01,False
+Total Exports (Seasonally Adjusted),2017 November,10305065,2017,November,2017-11-01,False
+Total Exports (Seasonally Adjusted),2017 December,10615118,2017,December,2017-12-01,False
+Total Exports (Seasonally Adjusted),2018 January,11649211,2018,January,2018-01-01,False
+Total Exports (Seasonally Adjusted),2018 February,10854676,2018,February,2018-02-01,False
+Total Exports (Seasonally Adjusted),2018 March,10707083,2018,March,2018-03-01,False
+Total Exports (Seasonally Adjusted),2018 April,11273083,2018,April,2018-04-01,False
+Total Exports (Seasonally Adjusted),2018 May,11542360,2018,May,2018-05-01,False
+Total Exports (Seasonally Adjusted),2018 June,12070224,2018,June,2018-06-01,False
+Total Exports (Seasonally Adjusted),2018 July,11713748,2018,July,2018-07-01,False
+Total Exports (Seasonally Adjusted),2018 August,11722069,2018,August,2018-08-01,False
+Total Exports (Seasonally Adjusted),2018 September,12258037,2018,September,2018-09-01,False
+Total Exports (Seasonally Adjusted),2018 October,11897848,2018,October,2018-10-01,False
+Total Exports (Seasonally Adjusted),2018 November,12146008,2018,November,2018-11-01,False
+Total Exports (Seasonally Adjusted),2018 December,12745252,2018,December,2018-12-01,False
+Total Exports (Seasonally Adjusted),2019 January,12978084,2019,January,2019-01-01,False
+Total Exports (Seasonally Adjusted),2019 February,13061731,2019,February,2019-02-01,False
+Total Exports (Seasonally Adjusted),2019 March,11540862,2019,March,2019-03-01,False
+Total Exports (Seasonally Adjusted),2019 April,12712375,2019,April,2019-04-01,False
+Total Exports (Seasonally Adjusted),2019 May,12672249,2019,May,2019-05-01,False
+Total Exports (Seasonally Adjusted),2019 June,12313510,2019,June,2019-06-01,False
+Total Exports (Seasonally Adjusted),2019 July,13292812,2019,July,2019-07-01,False
+Total Exports (Seasonally Adjusted),2019 August,12488035,2019,August,2019-08-01,False
+Total Exports (Seasonally Adjusted),2019 September,12762688,2019,September,2019-09-01,False
+Total Exports (Seasonally Adjusted),2019 October,14110012,2019,October,2019-10-01,False
+Total Exports (Seasonally Adjusted),2019 November,12414131,2019,November,2019-11-01,False
+Total Exports (Seasonally Adjusted),2019 December,12381250,2019,December,2019-12-01,False
+Total Exports (Seasonally Adjusted),2020 January,13671992,2020,January,2020-01-01,False
+Total Exports (Seasonally Adjusted),2020 February,12130019,2020,February,2020-02-01,False
+Total Exports (Seasonally Adjusted),2020 March,16784414,2020,March,2020-03-01,False
+Total Exports (Seasonally Adjusted),2020 April,11363896,2020,April,2020-04-01,False
+Total Exports (Seasonally Adjusted),2020 May,12900620,2020,May,2020-05-01,False
+Total Exports (Seasonally Adjusted),2020 June,12980346,2020,June,2020-06-01,False
+Total Exports (Seasonally Adjusted),2020 July,13165653,2020,July,2020-07-01,False
+Total Exports (Seasonally Adjusted),2020 August,14113303,2020,August,2020-08-01,False
+Total Exports (Seasonally Adjusted),2020 September,13600696,2020,September,2020-09-01,False
+Total Exports (Seasonally Adjusted),2020 October,12386631,2020,October,2020-10-01,False
+Total Exports (Seasonally Adjusted),2020 November,14521566,2020,November,2020-11-01,False
+Total Exports (Seasonally Adjusted),2020 December,12972200,2020,December,2020-12-01,False
+Total Exports (Seasonally Adjusted),2021 January,13862300,2021,January,2021-01-01,False
+Total Exports (Seasonally Adjusted),2021 February,12839300,2021,February,2021-02-01,False
+Total Exports (Seasonally Adjusted),2021 March,13007900,2021,March,2021-03-01,False
+Total Exports (Seasonally Adjusted),2021 April,12349400,2021,April,2021-04-01,False
+Total Exports (Seasonally Adjusted),2021 May,13706000,2021,May,2021-05-01,False
+Total Exports (Seasonally Adjusted),2021 June,13919800,2021,June,2021-06-01,False
+Total Exports (Seasonally Adjusted),2021 July,13412700,2021,July,2021-07-01,False
+Total Exports (Seasonally Adjusted),2021 August,13971800,2021,August,2021-08-01,False
+Total Exports (Seasonally Adjusted),2021 September,14224900,2021,September,2021-09-01,False
+Total Exports (Seasonally Adjusted),2021 October,15437400,2021,October,2021-10-01,False
+Total Exports (Seasonally Adjusted),2021 November,14767700,2021,November,2021-11-01,False
+Total Exports (Seasonally Adjusted),2021 December,13608400,2021,December,2021-12-01,False
+Total Exports (Seasonally Adjusted),2022 January,16678900,2022,January,2022-01-01,False
+Total Exports (Seasonally Adjusted),2022 February,16542600,2022,February,2022-02-01,False
+Total Exports (Seasonally Adjusted),2022 March,18566600,2022,March,2022-03-01,False
+Total Exports (Seasonally Adjusted),2022 April,17358400,2022,April,2022-04-01,False
+Total Exports (Seasonally Adjusted),2022 May,18038800,2022,May,2022-05-01,False
+Total Exports (Seasonally Adjusted),2022 June,16643400,2022,June,2022-06-01,False
+Total Exports (Seasonally Adjusted),2022 July,15628900,2022,July,2022-07-01,False
+Total Exports (Seasonally Adjusted),2022 August,19289400,2022,August,2022-08-01,False
+Total Exports (Seasonally Adjusted),2022 September,18641700,2022,September,2022-09-01,False
+Total Exports (Seasonally Adjusted),2022 October,18094500,2022,October,2022-10-01,False
+Total Exports (Seasonally Adjusted),2022 November,16215500,2022,November,2022-11-01,False
+Total Exports (Seasonally Adjusted),2022 December,16432500,2022,December,2022-12-01,False
+Total Exports (Seasonally Adjusted),2023 January,15985300,2023,January,2023-01-01,False
+Total Exports (Seasonally Adjusted),2023 February,17408300,2023,February,2023-02-01,False
+Total Exports (Seasonally Adjusted),2023 March,16582300,2023,March,2023-03-01,False
+Total Exports (Seasonally Adjusted),2023 April,16332800,2023,April,2023-04-01,False
+Total Exports (Seasonally Adjusted),2023 May,15730400,2023,May,2023-05-01,False
+Total Exports (Seasonally Adjusted),2023 June,17196000,2023,June,2023-06-01,False
+Total Exports (Seasonally Adjusted),2023 July,16420900,2023,July,2023-07-01,False
+Total Exports (Seasonally Adjusted),2023 August,16492600,2023,August,2023-08-01,False
+Total Exports (Seasonally Adjusted),2023 September,15481600,2023,September,2023-09-01,False
+Total Exports (Seasonally Adjusted),2023 October,17725500,2023,October,2023-10-01,False
+Total Exports (Seasonally Adjusted),2023 November,15431700,2023,November,2023-11-01,False
+Total Exports (Seasonally Adjusted),2023 December,15747800,2023,December,2023-12-01,False
+Total Exports (Seasonally Adjusted),2024 January,18102800,2024,January,2024-01-01,False
+Total Exports (Seasonally Adjusted),2024 February,17673200,2024,February,2024-02-01,False
+Total Exports (Seasonally Adjusted),2024 March,18158600,2024,March,2024-03-01,False
+Total Exports (Seasonally Adjusted),2024 April,19115200,2024,April,2024-04-01,False
+Total Exports (Seasonally Adjusted),2024 May,17248800,2024,May,2024-05-01,False
+Total Exports (Seasonally Adjusted),2024 June,17049800,2024,June,2024-06-01,False
+Total Exports (Seasonally Adjusted),2024 July,17896000,2024,July,2024-07-01,False
+Total Exports (Seasonally Adjusted),2024 August,18017400,2024,August,2024-08-01,False
+Total Exports (Seasonally Adjusted),2024 September,22292100,2024,September,2024-09-01,False
+Total Exports (Seasonally Adjusted),2024 October,20772100,2024,October,2024-10-01,False
+Total Exports (Seasonally Adjusted),2024 November,20256500,2024,November,2024-11-01,False
+Total Exports (Seasonally Adjusted),2024 December,18209000,2024,December,2024-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 January,3279200,2015,January,2015-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 February,3331400,2015,February,2015-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 March,3178500,2015,March,2015-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 April,3715300,2015,April,2015-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 May,3619000,2015,May,2015-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 June,3634600,2015,June,2015-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 July,3220400,2015,July,2015-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 August,3413100,2015,August,2015-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 September,3538300,2015,September,2015-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 October,4657500,2015,October,2015-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 November,3905800,2015,November,2015-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2015 December,3274600,2015,December,2015-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 January,4001432,2016,January,2016-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 February,2814011,2016,February,2016-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 March,3440155,2016,March,2016-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 April,3936420,2016,April,2016-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 May,3230926,2016,May,2016-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 June,3428093,2016,June,2016-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 July,3775693,2016,July,2016-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 August,4404820,2016,August,2016-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 September,3401653,2016,September,2016-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 October,5123106,2016,October,2016-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 November,3969711,2016,November,2016-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2016 December,3497504,2016,December,2016-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 January,2858160,2017,January,2017-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 February,3660962,2017,February,2017-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 March,4162858,2017,March,2017-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 April,3151373,2017,April,2017-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 May,2742755,2017,May,2017-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 June,2756252,2017,June,2017-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 July,3784299,2017,July,2017-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 August,3247229,2017,August,2017-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 September,3339052,2017,September,2017-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 October,3293635,2017,October,2017-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 November,3449158,2017,November,2017-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2017 December,3722816,2017,December,2017-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 January,4875686,2018,January,2018-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 February,3977862,2018,February,2018-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 March,4067936,2018,March,2018-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 April,4265726,2018,April,2018-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 May,4943101,2018,May,2018-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 June,3777735,2018,June,2018-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 July,3640906,2018,July,2018-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 August,3548816,2018,August,2018-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 September,3747928,2018,September,2018-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 October,3554234,2018,October,2018-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 November,3869253,2018,November,2018-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2018 December,4346676,2018,December,2018-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 January,5499044,2019,January,2019-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 February,6109442,2019,February,2019-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 March,4232257,2019,March,2019-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 April,5325096,2019,April,2019-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 May,5306283,2019,May,2019-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 June,4935944,2019,June,2019-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 July,5130854,2019,July,2019-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 August,4843084,2019,August,2019-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 September,5174370,2019,September,2019-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 October,6279497,2019,October,2019-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 November,4914728,2019,November,2019-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2019 December,4621221,2019,December,2019-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 January,6050843,2020,January,2020-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 February,3923950,2020,February,2020-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 March,10438378,2020,March,2020-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 April,5400661,2020,April,2020-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 May,6451209,2020,May,2020-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 June,6615401,2020,June,2020-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 July,5040647,2020,July,2020-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 August,6991574,2020,August,2020-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 September,7105113,2020,September,2020-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 October,5130391,2020,October,2020-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 November,5767049,2020,November,2020-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2020 December,5327500,2020,December,2020-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 January,7064600,2021,January,2021-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 February,5656700,2021,February,2021-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 March,4699300,2021,March,2021-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 April,4052200,2021,April,2021-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 May,4775400,2021,May,2021-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 June,4646500,2021,June,2021-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 July,5058900,2021,July,2021-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 August,5392000,2021,August,2021-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 September,5745800,2021,September,2021-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 October,6479200,2021,October,2021-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 November,4941100,2021,November,2021-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2021 December,3416700,2021,December,2021-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 January,6782000,2022,January,2022-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 February,6722900,2022,February,2022-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 March,7730400,2022,March,2022-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 April,5667600,2022,April,2022-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 May,4866800,2022,May,2022-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 June,4555800,2022,June,2022-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 July,3812100,2022,July,2022-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 August,5927800,2022,August,2022-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 September,5775800,2022,September,2022-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 October,5640900,2022,October,2022-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 November,4777600,2022,November,2022-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2022 December,4613100,2022,December,2022-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 January,4152300,2023,January,2023-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 February,5347300,2023,February,2023-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 March,5832000,2023,March,2023-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 April,4801700,2023,April,2023-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 May,3865400,2023,May,2023-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 June,5506900,2023,June,2023-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 July,4529600,2023,July,2023-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 August,5415800,2023,August,2023-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 September,3896400,2023,September,2023-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 October,6550400,2023,October,2023-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 November,2093900,2023,November,2023-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2023 December,4267700,2023,December,2023-12-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 January,8246800,2024,January,2024-01-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 February,7042200,2024,February,2024-02-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 March,6933700,2024,March,2024-03-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 April,8198300,2024,April,2024-04-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 May,6541300,2024,May,2024-05-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 June,5625300,2024,June,2024-06-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 July,5515900,2024,July,2024-07-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 August,5936600,2024,August,2024-08-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 September,11226600,2024,September,2024-09-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 October,10082600,2024,October,2024-10-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 November,8765800,2024,November,2024-11-01,False
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 December,7071000,2024,December,2024-12-01,False
